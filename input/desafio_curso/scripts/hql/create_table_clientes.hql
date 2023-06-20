@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.CLIENTES ( 
+CREATE EXTERNAL TABLE IF NOT EXISTS ${TARGET_DATABASE}.${TARGET_TABLE_EXTERNAL} ( 
         address_number string,
         business_family string,
         business_unit string,
@@ -12,14 +12,14 @@ CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.CLIENTES (
         regional_sales_mgr string,
         search_type string
     )
-COMMENT 'Tabela de Clientes'
+COMMENT 'TABELA DE $i'
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ';'
 STORED AS TEXTFILE
-location '/datalake/raw/CLIENTES/'
+location '${HDFS_DIR}'
 TBLPROPERTIES ("skip.header.line.count"="1");
 
-CREATE TABLE IF NOT EXISTS DESAFIO_CURSO.TBL_CLIENTES (
+CREATE TABLE IF NOT EXISTS ${TARGET_DATABASE}.${TARGET_TABLE_GERENCIADA} (
         address_number string,
         business_family string,
         business_unit string,
@@ -43,7 +43,7 @@ SET hive.exec.dynamic.partition=true;
 SET hive.exec.dynamic.partition.mode=nonstrict;
 
 INSERT OVERWRITE TABLE
-    DESAFIO_CURSO.TBL_CLIENTES
+    ${TARGET_DATABASE}.${TARGET_TABLE_GERENCIADA}
 PARTITION(DT_FOTO) 
 SELECT
     address_number string,
@@ -53,12 +53,11 @@ SELECT
     customerkey string,
     customer_type string,
     division string,
-    case when length(trim(line_of_business)) = 0 then 'Nao Informado' else line_of_business end string,
+    line_of_business string,
     phone string,
     regional_code string,
     regional_sales_mgr string,
     search_type string,
-	'20230618' as DT_FOTO
-FROM DESAFIO_CURSO.CLIENTES
+	${PARTICAO} as DT_FOTO
+FROM ${TARGET_DATABASE}.${TARGET_TABLE_EXTERNAL}
 ;
-

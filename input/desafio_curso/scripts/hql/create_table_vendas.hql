@@ -1,37 +1,55 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.CLIENTES ( 
-        address_number string,
-        business_family string,
-        business_unit string,
-        customer string,
+CREATE EXTERNAL TABLE IF NOT EXISTS ${TARGET_DATABASE}.${TARGET_TABLE_EXTERNAL} ( 
+        actual_delivery_date string,
         customerkey string,
-        customer_type string,
-        division string,
-        line_of_business string,
-        phone string,
-        regional_code string,
-        regional_sales_mgr string,
-        search_type string
+        datekey string,
+        discount_amount string,
+        invoice_date string,
+        invoice_number string,
+        item_class string,
+        item_number string,
+        item string,
+        line_number string,
+        list_price string,
+        order_number string,
+        promise_delivery_date string,
+        sales_amount string,
+        sales_amount_based_on_list_price string,
+        sales_cost_amount string,
+        sales_margin_amount string,
+        sales_price string,
+        sales_quantity string,
+        sales_rep string,
+        u_m string
     )
-COMMENT 'Tabela de Clientes'
+COMMENT 'TABELA DE $i'
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ';'
 STORED AS TEXTFILE
-location '/datalake/raw/CLIENTES/'
+location '${HDFS_DIR}'
 TBLPROPERTIES ("skip.header.line.count"="1");
 
-CREATE TABLE IF NOT EXISTS DESAFIO_CURSO.TBL_CLIENTES (
-        address_number string,
-        business_family string,
-        business_unit string,
-        customer string,
+CREATE TABLE IF NOT EXISTS ${TARGET_DATABASE}.${TARGET_TABLE_GERENCIADA} (
+                actual_delivery_date string,
         customerkey string,
-        customer_type string,
-        division string,
-        line_of_business string,
-        phone string,
-        regional_code string,
-        regional_sales_mgr string,
-        search_type string
+        datekey string,
+        discount_amount string,
+        invoice_date string,
+        invoice_number string,
+        item_class string,
+        item_number string,
+        item string,
+        line_number string,
+        list_price string,
+        order_number string,
+        promise_delivery_date string,
+        sales_amount string,
+        sales_amount_based_on_list_price string,
+        sales_cost_amount string,
+        sales_margin_amount string,
+        sales_price string,
+        sales_quantity string,
+        sales_rep string,
+        u_m string
 )
 PARTITIONED BY (DT_FOTO STRING)
 ROW FORMAT SERDE 'org.apache.hadoop.hive.ql.io.orc.OrcSerde' 
@@ -43,22 +61,30 @@ SET hive.exec.dynamic.partition=true;
 SET hive.exec.dynamic.partition.mode=nonstrict;
 
 INSERT OVERWRITE TABLE
-    DESAFIO_CURSO.TBL_CLIENTES
+    ${TARGET_DATABASE}.${TARGET_TABLE_GERENCIADA}
 PARTITION(DT_FOTO) 
 SELECT
-    address_number string,
-    business_family string,
-    business_unit string,
-    customer string,
-    customerkey string,
-    customer_type string,
-    division string,
-    case when length(trim(line_of_business)) = 0 then 'Nao Informado' else line_of_business end string,
-    phone string,
-    regional_code string,
-    regional_sales_mgr string,
-    search_type string,
-	'20230618' as DT_FOTO
-FROM DESAFIO_CURSO.CLIENTES
+        actual_delivery_date string,
+        customerkey string,
+        datekey string,
+        discount_amount string,
+        invoice_date string,
+        invoice_number string,
+        item_class string,
+        item_number string,
+        item string,
+        line_number string,
+        list_price string,
+        order_number string,
+        promise_delivery_date string,
+        sales_amount string,
+        sales_amount_based_on_list_price string,
+        sales_cost_amount string,
+        sales_margin_amount string,
+        sales_price string,
+        sales_quantity string,
+        sales_rep string,
+        u_m string,
+	${PARTICAO} as DT_FOTO
+FROM ${TARGET_DATABASE}.${TARGET_TABLE_EXTERNAL}
 ;
-
