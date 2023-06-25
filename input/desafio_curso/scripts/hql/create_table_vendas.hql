@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS ${TARGET_DATABASE}.${TARGET_TABLE_EXTERNAL} ( 
+CREATE EXTERNAL TABLE IF NOT EXISTS desafio_curso.vendas ( 
         actual_delivery_date string,
         customerkey string,
         datekey string,
@@ -25,10 +25,10 @@ COMMENT 'TABELA DE $i'
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ';'
 STORED AS TEXTFILE
-location '${HDFS_DIR}'
-TBLPROPERTIES ("skip.header.line.count"="1");
+location '/datalake/raw/VENDAS'
+TBLPROPERTIES ("skip.header.line.count"="1","serialization.null.format"='');
 
-CREATE TABLE IF NOT EXISTS ${TARGET_DATABASE}.${TARGET_TABLE_GERENCIADA} (
+CREATE TABLE IF NOT EXISTS desafio_curso.tbl_vendas (
                 actual_delivery_date string,
         customerkey string,
         datekey string,
@@ -55,13 +55,13 @@ PARTITIONED BY (DT_FOTO STRING)
 ROW FORMAT SERDE 'org.apache.hadoop.hive.ql.io.orc.OrcSerde' 
 STORED AS INPUTFORMAT 'org.apache.hadoop.hive.ql.io.orc.OrcInputFormat' 
 OUTPUTFORMAT 'org.apache.hadoop.hive.ql.io.orc.OrcOutputFormat' 
-TBLPROPERTIES ( 'orc.compress'='SNAPPY');
+TBLPROPERTIES ('orc.compress'='SNAPPY','serialization.null.format'='');
 
 SET hive.exec.dynamic.partition=true;
 SET hive.exec.dynamic.partition.mode=nonstrict;
 
 INSERT OVERWRITE TABLE
-    ${TARGET_DATABASE}.${TARGET_TABLE_GERENCIADA}
+    desafio_curso.tbl_vendas
 PARTITION(DT_FOTO) 
 SELECT
         actual_delivery_date string,
@@ -85,6 +85,6 @@ SELECT
         sales_quantity string,
         sales_rep string,
         u_m string,
-	${PARTICAO} as DT_FOTO
-FROM ${TARGET_DATABASE}.${TARGET_TABLE_EXTERNAL}
+	'20230624' as DT_FOTO
+FROM desafio_curso.vendas
 ;

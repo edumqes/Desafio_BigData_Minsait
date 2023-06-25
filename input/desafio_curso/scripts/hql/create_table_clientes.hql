@@ -8,7 +8,7 @@ CREATE EXTERNAL TABLE IF NOT EXISTS ${TARGET_DATABASE}.${TARGET_TABLE_EXTERNAL} 
         division string,
         line_of_business string,
         phone string,
-        regional_code string,
+        region_code string,
         regional_sales_mgr string,
         search_type string
     )
@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS ${TARGET_DATABASE}.${TARGET_TABLE_GERENCIADA} (
         division string,
         line_of_business string,
         phone string,
-        regional_code string,
+        region_code string,
         regional_sales_mgr string,
         search_type string
 )
@@ -55,7 +55,7 @@ SELECT
     division string,
     line_of_business string,
     phone string,
-    regional_code string,
+    region_code string,
     regional_sales_mgr string,
     search_type string,
 	${PARTICAO} as DT_FOTO
