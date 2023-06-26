@@ -1,0 +1,617 @@
+DW_CLIENTES;address_number;business_family;business_unit;customer;customerkey;customer_type;division;division_name;line_of_business;phone;region_code;region_name;regional_sales_mgr;search_type
+5b24b83df1682ab9f53bc6b53834424364ab620c69657a2c328b91635688afa6;10025298;R3;1;U. Supermarket;10025298;G3;1;International;Não Informado;816-455-8733;0;Canada;S17;C
+425597aad442bed674a7aed32fe3c3ddb74067876cadf747e4923f078d63111e;10009885;R3;1;Degolyer Supermarket;10009885;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+045c91a8123d217cf2c10074dc2bb9350fab2cf127ee4eef60a5073c76172855;10025246;R3;1;TECC Shop;10025246;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+e81308bf0939b7c5ce84a29ffd7d93a135a96281f5ff7fbe62c880ea246ae947;10012235;R3;1;Fimetrics Supermarket;10012235;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+95629bf25d448b4661c1931a7268719392decdec06a82a4979b062e74f14a17e;10024034;R3;1;Script Supermarket;10024034;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+433dee1c8b99157a0ec781cc6274dccb3063b40d2c8af3c1a9e21fd93662b8b1;10000456;R1;1;A&B Shop;10000456;G3;1;International;Não Informado;816-455-8733;0;Canada;S2;C
+20850793d1b8ca96a6850e29df9d66b6ce49cc2e74281ea6f52d2099d1227488;10026268;R2;1;WarRoom Store;10026268;G3;1;International;Não Informado;816-455-8733;0;Canada;S8;C
+468621f6e390c7460a2f9dc9b600e20414dfe05832d89a164fecb33ade857d77;10019410;R1;1;Keystone Store;10019410;G3;1;International;Não Informado;816-455-8733;0;Canada;S2;C
+6e3069617682c7188864441be049f8fde67525b12fd1669172026043ba32bc00;10025299;R3;1;U.S. Market;10025299;G3;1;International;M1;816-455-8733;0;Canada;S5;C
+d671ce606d02f1bcf852e6dea27b466eed11f2ea77529415e92ccea3570edec1;10025023;R3;1;TAL Store;10025023;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+f26d6666bda8a0f119e93b79560d684a17bfc5e9930988e158bd47733557a20d;10000469;R3;1;A-2-Z Supermarket;10000469;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+e179368e1c3556dd93ce351bbee4a43de74b0158fa3ac46da2249a30d7f829e2;10025237;O2;1;Team Supermarket;10025237;G3;1;International;Não Informado;816-455-8733;0;Canada;S1;C
+f8d0c7f4ee974c1b6837e5bea74c7aa0829a263d9130ec80202cd6a6ee3b56f2;10019913;R3;1;Livezone Supermarket;10019913;G3;1;International;Não Informado;816-455-8733;0;Canada;S17;C
+a9640e4c56b6c81e58053b19edf1aee3dbf07ccceec1ae8616c643d97ac7470e;10027082;R3;1;ySecret Shop;10027082;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+9c0e0344d36ddfb76e7653e149d754442f1482b9b1365e08a57f14adf62c93ad;10022240;R3;1;Quantum Supermarket;10022240;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+0f8c3d1390257fcd6914cee3cf14e455dbd848120d776125f79c48e45ab9ea3b;10010887;R3;1;Edia Shop;10010887;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+7c831688facb85c5d37a834b6d035a6be53f4e6b8a370a89b0d682cbd0b5e6b3;10000461;R1;1;A1 Store;10000461;G3;1;International;Não Informado;816-455-8733;0;Canada;S2;C
+bcd6b4d7ff60c61942628dcd5f76f12abbdacf58be92f3e21c9c93275da18cb1;10025575;R3;1;United Market;10025575;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+8f6489e000081aec1d97dbc7d9f2372d0d4142c608bde77f51dcde3a5598d328;10016609;R1;1;Homestead Market;10016609;G3;1;International;Não Informado;816-455-8733;0;Canada;S21;C
+99ab48eb6b95b93eafad95307ce4af97ee8b96390270c12ff0e6433d0e6079ba;10017307;R3;1;Idyll Store;10017307;G3;1;International;Não Informado;816-455-8733;0;Canada;S8;C
+8dc8bafc9c3a0dfd0c76338043f5ccdbead6fdee044f54c37c5a042960198150;10021158;R3;1;Pacific Supermarket;10021158;G3;1;International;Não Informado;816-455-8733;0;Canada;S17;C
+713a19409e0296ecd2c4704ad714c3c6b4626a239099aed4478dabbc191000b1;10021472;R3;1;Parabole Shop;10021472;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+031df9751106f406bb49500da57b83184e7f5bd9bb30be727e8ff8288d484758;10002220;R3;1;ACRON Shop;10002220;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+43e211912e25fb3c6bcd1a66c3feac2f49e255aeedc31b9f38f3b5a0f68d8634;10025508;R3;1;Unimedya Shop;10025508;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+027dbca28392482b4679afb211b08817dc865fb379e11ab7365d6dc365a965ea;10014471;R1;1;Harts Superstore;10014471;G3;1;International;Não Informado;816-455-8733;0;Canada;S2;C
+a22221f53a981ba0339f650a7160cef64d6382ed18fcd739424303abd4176d2e;10009652;R1;1;Dci Shop;10009652;G3;1;International;Não Informado;816-455-8733;0;Canada;S21;C
+745d15a4cb7077123febad48f8a6e4ba9300927aef780eabaac2c83f433d0de4;10022687;R3;1;Ravenwerks Shop;10022687;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+14bcf08416fe3f2cd9d98991b079644a43fb804d14ff632a196fa13ec05a9c73;10021204;R1;1;Pacific Store;10021204;G3;1;International;Não Informado;816-455-8733;0;Canada;S4;C
+c8a4ae2e19f17ca8d42591f7ac0a7e8c4df90e7bda2d93d9e39bdc45c99a2a13;10010884;R3;1;EDC Supermarket;10010884;G3;1;International;M1;816-455-8733;0;Canada;S5;C
+f0c4e0d6c3a124cd39215d056b2008710933dee30ed2c7a26bcab6cccfc82037;10018146;R3;1;J.M. Supermarket;10018146;G3;1;International;Não Informado;816-455-8733;0;Canada;S8;C
+38d8945c626f073a5e3aa73be0a6e7ebdb649ffc4d19169d6bd5dd79adfef410;10020448;R3;1;Nanao Shop;10020448;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+f8ff0d440fcd2d3e85466b70798369cbd26e3cc13cb93c5ab4df1998de218117;10025032;R3;1;Talkland Shop;10025032;G1;1;International;M1;816-455-8733;0;Canada;S19;C
+70464553d945284c7b086b29b867a3cc2ad0845a0e0bee7cdd19e7ad5156daa9;10009653;R2;1;DCP Supermarket;10009653;G3;1;International;Não Informado;816-455-8733;0;Canada;S8;C
+40aec121af3394323f536dea20aa5e2ece56250ef3dc5c22333d5d415e583358;10023022;R2;1;Renaissance Supermarket;10023022;G3;1;International;Não Informado;816-455-8733;0;Canada;S8;C
+d1e9b33bc4b55918a2e8db91e3f9e68f8055546971631e809be3cb2e02a7ba7e;10011724;O2;1;Federal Supermarket;10011724;G3;1;International;Não Informado;816-455-8733;0;Canada;S1;C
+dc2916303d8fb39bafff7afb6346524c1744f597e4834ab8e3e3efc0561d43e1;10026006;R3;1;Vector USA;10026006;G3;1;International;Não Informado;816-455-8733;0;Canada;S5;C
+e347a4349e5f335f819823787470a977642b366be573479935c7ca0645b4680c;10003882;R3;1;Beech Supermarket;10003882;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+4f7204538e816e68548fd76d62e4c8e006944e0006e5c55dd017a7f8df8d2bc4;10019469;R3;1;kGS Shop;10019469;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+8e71fa036ad4a5df6619ef5a81f3492b95137559a9b02103db5d88584f3123c8;10019512;R3;1;Kim Market;10019512;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+cabc6272f38c8d41ab7b6b5a3b5e4427f23f53a82ad8da33b2d4367a762731a5;10020868;R3;1;One Market;10020868;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+de7e2839b1a5eccbf56f696437236439932f8889aa92e50c9b73ae5c0fb3c99c;10010882;R3;1;EDA Supermarket;10010882;G2;1;International;Não Informado;816-455-8733;5;International;S16;I
+0956d0231716ae969b45e2492c5eaccc019a7c1f3f2c3595e0af4b7766d09bd9;10013312;R2;1;Gate9th Shop;10013312;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+8e8d7fd7e805c4d58dcfcf5f2d37fb9504f1f3c8c5c35940bc3b81d45ee28f50;10026438;R3;1;PLAINFIELD Market;10026438;G1;1;International;M1;816-455-8733;5;International;S19;C
+27fdd51b042d57793bfd47a824e7b0435fbbf379d19c8c48395aaa81ae3922b7;10010832;R2;1;?change Store;10010832;G2;1;International;Não Informado;816-455-8733;5;International;S11;C
+cb8e1bba9b906e9720fbfd555fee0bb901ea43d4cd3436e454c5752a3b7b11ae;10019514;R2;1;Kimball Supermarket;10019514;G2;1;International;Não Informado;816-455-8733;5;International;S4;C
+33a1d6459db6aeee23a599ced9e5b8adf60d5db0a1a6b61ae4e7593637835e01;10020864;R2;1;One Store;10020864;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+b95440df110e90c49ba1242d22128f455b9f3735094c1d1f52798523fa604a6b;10025052;O2;1;Target Gigstore;10025052;G1;1;International;Não Informado;816-455-8733;5;International;S1;C
+323d45bb01a8177e4a6a50d9811b52f44c16da95f3ab739bc97ade3647de6d27;10006983;O1;1;Brentano's Shop;10006983;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+81ab9349dd78f01b5399b73afc5d27d791ed09c623b8e578dae7cf91587695ec;10013670;R3;1;Gehlken Supermarket;10013670;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+fa2dfd61354848c23e24b68dcfd627862814eede6e94ea7ab75b76492af9bc67;10005099;R3;1;BF Supermarket;10005099;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+6557c72fb2228bc3f1c1c21bdf905ce8e586b98fa8e0f35ffd6c5ff984aeca29;10013538;R3;1;GEAR Shop;10013538;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+995799a81fa4ca1eab0d122ba1b903a51897779f4719bd8f000cdd64e978a0b1;10017290;R3;1;Id Shop;10017290;G1;1;International;M1;816-455-8733;5;International;S16;C
+179354d0644ce91257c3444ed131176643f95bc19a61f355bec93975efe9de1a;10025392;R3;1;Ultimate Supermarket;10025392;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+1b7f78173589fd17485702b6d6d4606900c31296cdb459d5be076a57318b7dde;10012161;R3;1;Filetron Shop;10012161;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+9202149b57376c80c22e6054819ec2f4e8103e44aa890ef9067c2e7a61fe4efb;10021283;R3;1;PageBoy Shop;10021283;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+ce8a4efcc2abfbc5d850e02cd2b92c70da6dfa1b1ae13e7a227dfd54b128827d;10009650;R3;1;Dayton Store;10009650;G1;1;International;M1;816-455-8733;5;International;S16;C
+8c29fad6512a3e1d01d41aa3783c52857ada04614401ba0ec80fc4b692b9e8f2;10009669;R3;1;De Store;10009669;G2;1;International;Não Informado;816-455-8733;5;International;S14;C
+da94998f0a276c5f27af25dace38fe9751e1ff3d5ece78663e56281905cb324b;10021160;R3;1;Pacific Gigaplace;10021160;G1;1;International;M1;816-455-8733;5;International;S19;C
+15bf4894c1d61464c7e9de9e1ce4964e8a4d23d1c03a0e4be314c7ed4b4f7948;10022755;R3;1;Real Supermarket;10022755;G1;1;International;M1;816-455-8733;5;International;S19;C
+ebc44de265a914cb692d74b2f2ab7d1a78082f2fb8422a337e9ca1216fa29a79;10021239;R3;1;PADL Shop;10021239;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+855f5e8d7ac85d09cf2ab0e80d99cfc8fef02845fd36b6a9f73c8f88d2df0abe;10019952;O2;1;Lobster Market;10019952;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+dbe517e5d23e6da5d5494779cd9bf166a7269b5a63c27be98670afb38386b0d1;10003857;R3;1;Beckman Market;10003857;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+7880e3cd4535ce024a08b5f51b5528b10ddc35cb611d2b9ebfb23db0d2338a56;10013899;R3;1;Grumman Market;10013899;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+f2397709281c51a347014bdee5bd9daa238a26cf879be1571acd28595af582c0;10016780;R3;1;iBEAM Shop;10016780;G1;1;International;M1;816-455-8733;5;International;S18;C
+fb20b063ea3f8b07cf82cf2a930d84a9216a5f6b3209c9f3f38ca50dde4b679a;10011870;O2;1;Fenwick Supermarket;10011870;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+e773916b888d5626f7e4d1d28986b584d309e4fd3f31d1c6248f083757c98cc0;10011018;R3;1;Eloi Supermarket;10011018;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+8d1235751cf1a431342159324b7b8f949bb63e3147257ddc603f407930d0b998;10020266;O2;1;Maxwell Supermarket;10020266;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+e4eaccf48a6a3cc0c0f47543b032f325ebbe9e1036c64d19c7a21dc4b7fbc430;10007134;R3;1;C&C Shop;10007134;G2;1;International;M1;816-455-8733;5;International;S1;C
+3ec6aaba6d7d52fa6a0ae4d285860a5c1a0aa7955cba0879badf93aca13163e9;10011360;R2;1;Equitable Store;10011360;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+002b8dd518f51b0d8debe933f4851f494654b718792dcae871fccb2f14e643c4;10020491;R3;1;Nbase Shop;10020491;G1;1;International;M1;816-455-8733;5;International;S16;C
+31ce6f62da69084540430f88ea1c93751dd6794b5840c249da3141446e86d5df;10002150;R3;1;Accumedic Store;10002150;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+f6d5675559b0d8a1ab2bbc6b92b00c739a93d4e9371b70f0252614d77fa20135;10004516;R3;1;Besicorp Shop;10004516;G1;1;International;M1;816-455-8733;5;International;S19;C
+a77855d8a7c23af153e3d70f01530412a2b51f6d892db989d9514c2bd71be9a6;10018352;R3;1;Johnson Store;10018352;G3;1;International;Não Informado;816-455-8733;5;International;S5;C
+16643e965f0c0302bf8343f704b66ad780acc38b28298ef2cd8b73d52460700e;10009606;R3;1;Champs Gigaplace;10009606;G1;1;International;M1;816-455-8733;5;International;S19;C
+b68e504f251174d4e8da37d6529d59ce7f5b24ae1f5f87d19c6915458de20653;10021240;R3;1;PAGE Shop;10021240;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+a493860ce1d4cb08331edcec55846a3a18445a72af46c5ccd69c2230fceb6903;10020982;R3;1;Outsource Store;10020982;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+16a85175666b93466a6426a73f5fba0fad8ccfbf4643129012f6ce6d2c1c0fb8;10002155;R3;1;ACES Supermarket;10002155;G1;1;International;M1;816-455-8733;5;International;S18;C
+86e78d2291b07d272fe520d2525fe1e263668c3564bb9de60413c7e73e2c795b;10020715;O2;1;Old Store;10020715;G1;1;International;Não Informado;816-455-8733;5;International;S1;C
+53bc935153ca535440c67e745feefc857bdc1b8bd30de8d7b287ff3f3fb81e58;10001818;R3;1;Acc Supermarket;10001818;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+4dc08462d063ec08c00e4b424cdbe76348c33da7ce37c52689d940435e649120;10020332;R3;1;Medics Shop;10020332;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+87da4a84219416ee4c687af426b558db2f14b1068dc60c41b6b00945d445634f;10026365;R3;1;Whites;10026365;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+fa393d1a14be8f92ff5e881010f3d38f74bfc0b34d62b7da5ced2a032a57fffd;10000496;R3;1;AboveNet Shop;10000496;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+d1dce20930f3a3e3f1666939e83599beaf06620d5c44288af26ed55f717f5f09;10015886;R3;1;Hewlett Supermarket;10015886;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+b1ecb7cfa2bbe7a25c0f2e90d11f4a2c2781cdc4385e10aee82145be0f2d694c;10025359;R4;1;UKnames.net Shop;10025359;G2;1;International;Não Informado;816-455-8733;5;International;S18;C
+0379fb0094b4c2487359730533713790d750030afae80745ccf8643f655937bf;10006917;R3;1;Borden Supermarket;10006917;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+7523735ded58ad0891a9e2b4977889e2730a409f3d0db7fad6c7f0caf785039b;10014238;R3;1;Harbor Store;10014238;G1;1;International;M1;816-455-8733;5;International;S19;C
+a4c481d0e90de573f7e5df39c498be0cc77a8ddda7f44f91e660b7786ffcc9aa;10003554;R3;1;Ad Supermarket;10003554;G1;1;International;M1;816-455-8733;5;International;S19;C
+25343d335d0a25f8e45534fd5dbe39d13a58fd4e41949800d0c772863430114b;10013079;R3;1;Gandalf Supermarket;10013079;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+f5ce119e2fb1cbda71815f3c574f92026150acaa34ed4ea8f5acab5182b96676;10014043;R3;1;Guarantee Supermarket;10014043;G1;1;International;M1;816-455-8733;5;International;S18;C
+ddab7a541b83a3d97cff0bbd0253243001cfe7509ca6dc9f8990c19e7361ce12;10018603;R3;1;K&K Supermarket;10018603;G1;1;International;M1;816-455-8733;5;International;S19;C
+0f7ddb26ac65b7a786f99cdc57cdc025804082629a11d1ed03bec914f4b57880;10013871;R2;1;Grove Supermarket;10013871;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+19dba9bb90a3c83e5e1ab2677966dd0bc4317fff5df013d91b81454802fc08a4;10020181;R3;1;Markets;10020181;G1;1;International;M1;816-455-8733;5;International;S19;C
+a17344c7e349d69effb601a5ed9a9199b4ce77e7b1280afe1731a176218a968f;10021270;R3;1;Page Market;10021270;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+cb23bd5a83e6137b5a50bef7a950c5b80b1886598defe55bd1ae4dfea093de0c;10017852;R3;1;J.A. Supermarket;10017852;G1;1;International;M1;816-455-8733;5;International;S19;C
+689361b2dbac8a9b4eb181dcc07efce45522745e519a146cfa1c666d759b9b5d;10023495;R3;1;Safe Shop;10023495;G1;1;International;M1;816-455-8733;5;International;S19;C
+873861228daf00d0601e91512fd04468e4a84738b4809e3790667d3b4070fcf9;10006919;R3;1;Hoovey SuperStore;10006919;G1;1;International;M1;816-455-8733;5;International;S19;C
+442cbadb5cc1f21419143bb013a0bf10330065c87d18a19ba695e487cde378dd;10015267;R3;1;Helfand Store;10015267;G1;1;International;M1;816-455-8733;5;International;S19;C
+4856dc0aa4abf75c92c849ac038493fe95143236e37de4200cdf9e4142a6bbeb;10020515;R3;1;NBX Stores;10020515;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+474e49c923e9faabd2c793773c0f88474988ff388cc13a869e95eda058689ebd;10004602;R3;1;Best Supermarket;10004602;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+b68df842374b76d86fee07488d8fa40edcc7c8c51bbbddf3ae44cd46be127ed9;10005810;R3;1;Big Shop;10005810;G1;1;International;M1;816-455-8733;5;International;S19;C
+71611cd52773b586466ad742a65ae0e34ff56581364091f562a83a044b4a67da;10013572;R3;1;GearSource Shop;10013572;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+73056590053f2f93ea2f871e96fac075a0f2f9e6e594848d5931fab5f2a0e641;10014802;R3;1;HBS Shop;10014802;G1;1;International;M1;816-455-8733;5;International;S19;C
+b2b5c190f36c63e9e8546648b5003eaa5026fd519829adf72a8742a84f14d662;10021736;R3;1;Patton Store;10021736;G1;1;International;M1;816-455-8733;5;International;S19;C
+850219aa576d169aa0beea25479e253543d148118b4df4659e2568bff6411734;10013052;R3;1;GammaGraphX Store;10013052;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+84f19c507c731165a7f5b891fdbff63ad78173d74f06d1a0928a5053b9fdf978;10023757;R3;1;SAS Supermarket;10023757;G1;1;International;Não Informado;816-455-8733;5;International;S19;C
+b7d45193e40eb7bb445de7ca6a0f6afb2e8facb27df99edcaef20df11c4c4bcd;10018868;R3;1;Karickal Store;10018868;G1;1;International;M1;816-455-8733;5;International;S19;C
+c8e8e8cfa73e096294a68c44cffc10f512927fbf031b0cf2c5c618bb1700067b;10007309;R3;1;Cadtex Shop;10007309;G1;1;International;M1;816-455-8733;5;International;S19;C
+96461e857f3fada86104ca6fd01c15347ae90de0e53aa8dded8e6e590bf4b8eb;10020364;R3;1;Mersey Market;10020364;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+ab94e244d1a2090c943f686d77d20e56f0ae4cc4058a940e965001e0bc17460e;10022962;R3;1;Reflex Store;10022962;G1;1;International;M1;816-455-8733;5;International;S19;C
+7f68a307ad62e499e25550c903b8501ff731b8c575e88edf84b938a1a152f77d;10000471;R3;1;Aadast Shop;10000471;G1;1;International;M1;816-455-8733;5;International;S19;C
+50293d3bb69d416d43dd3dd111a74c2d7a8ad8f9f44ca480c7c2f334116f8079;10006836;R3;1;Biz-comm Shop;10006836;G1;1;International;M1;816-455-8733;5;International;S16;C
+e22dcbddd92659eafac5e999b44dae7f3fc04d7b53fa74bd42b428293c4af23a;10011623;R2;1;Federal Supermarket;10011623;G2;1;International;Não Informado;816-455-8733;5;International;S3;C
+45b79e0f2502453d739e779d13abc211a6d755fa81fdba42fc6b4f1689663ae3;10020080;O2;1;Lucky Shop;10020080;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+143edcaec7ec2dce8514c48e88eb3ffaf3c7bf09ee57355058f7725717224aa8;10002142;R2;1;AccuCom Shop;10002142;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+0d7428baf8dd9912bc7c99838f5dc9cbe9d295f8c42bd30e778a227365c0671f;10013332;R3;1;GateMaster Shop;10013332;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+80371f3c3e31a48f05418f4d11246b7b12b082fba9edc6bca8714418ed71ad70;10002139;R1;1;Accrue Shop;10002139;G2;1;International;Não Informado;816-455-8733;5;International;S11;C
+a36bfee633b02cc097656f1bc9f99827cc6375be179a43c0bbd4e0c2bf2800cd;10010990;R1;1;Elbit Market;10010990;G2;1;International;Não Informado;816-455-8733;5;International;S20;C
+e29ffb04b4f356e1ec984f84db69e6b79e81d84c2477c43ff1c21ee2f41ef0e6;10011842;R3;1;Fentek Market;10011842;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+f73c1db98500d9d270d962bdc41c93240f66c0ce0e91ad970bb3821fba11064d;10025737;R3;1;Userland Maxistore;10025737;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+90a2285768d8d52b7a796b11bc26a7e9a66aaeb67269bd70e1a9a5dce4d74730;10011732;R3;1;Federated Supermarket;10011732;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+1aa2346a312890b5aa56667fc4a3531ebcda093663300333737413ed2e7669cd;10016113;R2;1;Hill Supermarket;10016113;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+8958e8eeedff6603f2632d0f6c92af7e0636867131aff58fa0c67125cc1f4070;10002149;R3;1;AccuLAN Shop;10002149;G2;1;International;Não Informado;816-455-8733;5;International;S16;I
+a44a60417039dbae89d9c67ff683bb8e56604e7066b4d540b7cdbe34559d2b72;10002137;R3;1;Accidental Shop;10002137;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+0d811782a80db9026d32815a21d997bb76d0a3ca174af98f01852eb4cefbf62e;10005688;R3;1;Bien Supermarket;10005688;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+3884b5c1dc4c6bd9398aa40e367ed7cd447cc4bf2f69b69d8e99376f5abfd028;10011979;R3;1;FiberPlex Shop;10011979;G1;1;International;M1;816-455-8733;5;International;S19;C
+ca7ffa631ec42bdad1958fecd3bfddf3673903959ba9af89fdaa5f60e4d48f71;10002136;R3;1;AccessWare Shop;10002136;G1;1;International;M1;816-455-8733;5;International;S20;C
+a52677e507e74e62839014ee39d4b9d4e8de44685d0db08d97f1a5c9e723f1ba;10021107;R3;1;P.C.G. Supermarket;10021107;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+16ea4a48589d56e2a062d1f9744cca0ceba3d86b51788aa5b0dd7b3e8e5fcaee;10023511;R1;1;Sage Supermarket;10023511;G1;1;International;Não Informado;816-455-8733;5;International;S13;C
+8c412462953ee20aebb7476dece9e31822f4fe0350f33270f6049c5acfa6fca1;10002140;R3;1;Accton Shop;10002140;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+96443e44fae911eb33c30a2e17496046ee8829790e1668c5284b7748a1790db3;10013080;R3;1;Ganymede Shop;10013080;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+0cb90893f72dc571f2ac79e96e845e8bb633340a65cb9349ab50ea45b972d6b6;10025267;R3;1;Todd Supermarket;10025267;G3;1;International;Não Informado;816-455-8733;5;International;S5;C
+2dd23ec4e7a347644e5815c7c8556d5f581abcb5845f41ef8f210f983483fbf4;10012158;R3;1;Filene? Shop;10012158;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+8572df5080debe57127b84396c05e3fdc6b6c12e758e457de049a95f2863e949;10012927;R3;1;Galaxy Supermarket;10012927;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+5cc49595c67ba929d5c017d49d863fe3e774cd59cac93a305340a02bb19ecd7b;10020256;O2;1;Maxtor Shop;10020256;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+f4a0936d0be72f8054d733499d16efc65c11c116505dc451748f02ea0abe45fe;10023780;R3;1;SAT-SAGEM Supermarket;10023780;G1;1;International;M1;816-455-8733;5;International;S16;C
+6b3f5530160ed9064a4a94eca82d91d51006bef4ab79276af3bf591bf7f82ab5;10015956;R3;1;Hidden Market;10015956;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+436b01cb2d689afbb769d54745322d3ffc5b726b6aeef37a41da4bdbe3a8af2e;10014540;R3;1;HarveyOpolis Shop;10014540;G1;1;International;M1;816-455-8733;5;International;S16;C
+3eb663e97b79ce599c17ba3dad94aee62c05d8fcc46518a4d795da7960deed62;10002526;R3;1;Active Shop;10002526;G1;1;International;M1;816-455-8733;5;International;S19;C
+154db2cb565c76fa3425020d2807a77461798d178c543cc860ec9f546128c5f0;10020662;R3;1;Nematron Shop;10020662;G1;1;International;M1;816-455-8733;5;International;S19;C
+b2a85d777becc7fcad23d352bff1980758adab46beb2cc0e61ed6d9193d4fe59;10024930;R3;1;T3West Shop;10024930;G3;1;International;Não Informado;816-455-8733;5;International;S8;C
+ce41f418c3503ede38796eb91fadc7048fdabde32275245f9d97c34f5b9c927a;10003749;R3;1;Associates Shop;10003749;G1;1;International;M1;816-455-8733;5;International;S19;C
+8b46b6f5f9306b87b1bf3479597d93b92a69d36307448002027cb08566cc9102;10006977;R3;1;Brazilian Supermarket;10006977;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+ef618ad979a6aff3fd3c0668e13453e0a847e611c58a6ac5e140e954935d7e69;10002144;R2;1;ACCUCOMP Shop;10002144;G3;1;International;Não Informado;816-455-8733;5;International;S8;C
+1886e99e2f546f6ce9b4a6db03e5f32a8a11118a984a20e047da8eec566705ec;10022167;R3;1;Quallaby Megaplace;10022167;G1;1;International;M1;816-455-8733;5;International;S16;C
+7524ef23e80cd4e5da6964cb4ff3f93be625b2714980da53f10c10b1352c05b6;10000501;R3;1;Absolute Supermarket;10000501;G3;1;International;Não Informado;816-455-8733;5;International;S5;C
+e019855928bd6868434826f7acf58ec5a834d7246832967d3949dff7ecb5887d;10026081;O2;1;Ventana Maxistore;10026081;G1;1;International;Não Informado;816-455-8733;5;International;S1;C
+64b3a778599db62de3a2e9648f3aca4a8e5711ffa1c5e9439cd07b56c8d4c755;10026294;R3;1;Wasabi Shop;10026294;G1;1;International;M1;816-455-8733;5;International;S19;C
+aa607ebd5951e4799bcaa55539ca163b2f0ea2a4fe5d19ce507cb4d6657ef396;10002412;R3;1;Acsior Shop;10002412;G1;1;International;M1;816-455-8733;5;International;S19;C
+3309bd3ae2d462a06fa11e46819b67a758a8f8416b76451155f27fd95805c70d;10026009;R3;1;Vectrix Shop;10026009;G1;1;International;M1;816-455-8733;5;International;S18;C
+4232dff5d4efa6f3579bb7e22e4b98e819351802ebd06360c7a0289fa26b350a;10009639;R3;1;Data Supermarket;10009639;G1;1;International;M1;816-455-8733;5;International;S19;C
+0f32db81ab689eb641cc5620ea5c6bfb20fb5ac73682ddf34960d6a623c054a7;10010923;O2;1;Edmark Shop;10010923;G1;1;International;Não Informado;816-455-8733;5;International;S1;C
+94e3d210220ab51864e1dad4bd957a0bb6843b6da235b1ac373b8aa45d4f1ffb;10007258;R3;1;C3I Shop;10007258;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+c4be30d8dafc55bfdbd9a98bdb4d829fa6daaad7c8762cde91c1c6450043f840;10022201;R3;1;Quantum Shop;10022201;G1;1;International;M1;816-455-8733;5;International;S16;C
+cbe46c8b400a8c4614ea624401b7f217cc9c24c65b4e71dcdccc88ecc099c221;10026868;R3;1;Xyratex Shop;10026868;G1;1;International;M1;816-455-8733;5;International;S16;C
+a4f048a8709ccece3ac2a59434bf2ae425459cbb52ec29e1f24902a9ff2ae6ee;10005919;R3;1;Big Store;10005919;G2;1;International;Não Informado;816-455-8733;5;International;S4;C
+0272345cdb8b8b6c4a1ac627be6c98b739226f28fcc8e2a1e87354a4464cb7ce;10013426;R3;1;GDC Shop;10013426;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+b761a71e8944b5f1e56d48645c578a5f5a4605a9d047f2fbccb51a35186bd9bc;10021750;R3;1;Paul Store;10021750;G2;1;International;Não Informado;816-455-8733;5;International;S16;I
+43284037b8ed68fb783983f256103a304f7b6b6fc581a47b597496e65fddc7e1;10024942;R3;1;Tag Supermarket;10024942;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+06a18b48901a25158366a14939ce78ac87faec9aeaadfea2aed683731a9376af;10002114;R3;1;Accel Supermarket;10002114;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+c4899bd85b786bbe72f7a1b930e7e47d627aba0317ad44d7d2be7849976f669e;10020193;R2;1;Maui Store;10020193;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+fa61091c2db61b9e60fc0498a28d0b8d50ad1d682fb8a056a8376acfb1b82473;10024016;R3;1;Screen Supermarket;10024016;G1;1;International;M1;816-455-8733;5;International;S19;C
+c3daa85b749bff10cef29eb38969dbfae45039a1b98dfbed1836723410298684;10007253;O2;1;C3 Supermarket;10007253;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+6de70338e20a25edccd8022c9da8c99c82ae32d5abe6fcaee9b77011722a2786;10011546;R3;1;Farrell Supermarket;10011546;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+3049cf6fd02947d76fabbd2efc766947497071cad9134cfe93cd9062b5ad3ca7;10005922;R3;1;Big Supermarket;10005922;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+f7769377ef274ff8b79974557957fb8b73b259d547a030e1b428ca2ed1c19e34;10012305;R3;1;FIND/SVP Shop;10012305;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+6a979de5ac1111e052a6cfa37af528a3e4d0ce96afde9f55d07f1b89122303c6;10023703;R3;1;Sarcom Shop;10023703;G1;1;International;M1;816-455-8733;5;International;S19;C
+25099e85cdda32e95438551ec296c8589e71490a4899f198ceea196daec66a97;10025418;R2;1;Ultra-Image Shop;10025418;G2;1;International;Não Informado;816-455-8733;5;International;S3;C
+0c05d98383f9635a743b28a926e8d775dce553cc9ea24f1361a1935fb30e3686;10013341;R2;1;Gatierf Supermarket;10013341;G2;1;International;Não Informado;816-455-8733;5;International;S2;C
+a54613cc7d3a737af2c885751f5f07ffd3ede69d4d2f016fe258a573b9a9848c;10002161;R2;1;ACME Maxiplace;10002161;G2;1;International;Não Informado;816-455-8733;5;International;S4;C
+13472b6589d93f40245239f54013914c67651b1e1b2a25a8fb113e711bd47170;10012600;R3;1;FireTrans Shop;10012600;G2;1;International;Não Informado;816-455-8733;5;International;S4;C
+6c8bdf6caa62bc32453612191a2f644ede7ab16a57adf0b1dcdf0f5ff23e4afc;10012851;R3;1;Gailey Market;10012851;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+cf52fb76711566d15f650532350eb7537086455ee21614c74753287e538445a8;10025024;O2;1;Talarians;10025024;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+72e8d38c1fa72287c211df3d27c67206e83de635201f5788d8bf01280fd76d34;10002159;R3;1;ACI Shop;10002159;G1;1;International;M1;816-455-8733;5;International;S19;C
+d345992b3683ac1ecd9b105716a08003f396d6f621038f031dab5c40ac2a723e;10007448;R3;1;Cajun Shop;10007448;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+6fb359aa795129817bb93f081d9586f5ec38d3a9109b5a36fe80a18d76a46d3a;10007536;R2;1;Calypso Maxi Store;10007536;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+b8d1fedc354c9cc5bbaca9812479e897a1325b467138b6ac136198999855858a;10011089;R2;1;Embedded Supermarket;10011089;G3;1;International;Não Informado;816-455-8733;5;International;S8;C
+b57d0ac51e95e92ea4bdfe15fd3f0a756c4a4a74c3737b902c1112e908db0e25;10018371;R3;1;Joy Supermarket;10018371;G1;1;International;M1;816-455-8733;5;International;S19;C
+a35bb79053e41618a0b3e6b79ed35bc5e87f0e717fca70d6e2acef89df66a728;10012128;R3;1;Fifth Supermarket;10012128;G3;1;International;Não Informado;816-455-8733;5;International;S5;C
+9b8c91377c38ea2c3f84c927a77b0c8746b297e0d8c6d4a3b473fc3928653d8f;10026023;R3;1;VEI Shop;10026023;G2;1;International;Não Informado;816-455-8733;5;International;S15;C
+d18b336b62933900c8fb3b7f44b87f6c555d174e55cb93dcd81e90e55fa1c902;10002128;R3;1;Access Store;10002128;G1;1;International;M1;816-455-8733;5;International;S19;C
+bf9ae444daa31f271b7aa72713f8a0e1f18191bf8edf68d99ea483287ed811f4;10011499;R3;1;Farmland Supermarket;10011499;G2;1;International;Não Informado;816-455-8733;5;International;S14;C
+de5ce3b1d67aabf8160c4933e0a20d9c1eb9d33097dec7bbb04b59b48bdb1b48;10011093;R3;1;EMC Shop;10011093;G2;1;International;M1;816-455-8733;5;International;S16;C
+50e7bd85e4a7d3778d5b42e3abe034fcf3410996f6408769de2023ccf0ea424b;10013870;R3;1;Greymac Trust Company;10013870;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+a6c822517c00a5c66678b23e5ba141ad759e387e0de9f8441ce87dcaea754e88;10025241;R1;1;TeamStore;10025241;G1;1;International;Não Informado;816-455-8733;5;International;S5;C
+4d27414c59ab29abb6ed0aef3e94789bae60474df74041147a89cd71c679bcb9;10002501;R3;1;Action Supermarket;10002501;G1;1;International;Não Informado;816-455-8733;5;International;S19;C
+890bf0e20d5f5aae58ab5164971c95ef5a34a2453c95a649c1d75c3db57b08fc;10004207;R3;1;Bell Store;10004207;G1;1;International;M1;816-455-8733;5;International;S19;C
+1ab3ff3f95331cf7fedc87995ca40e31002895cd1cb4ef4512487a5fc3d948b3;10018518;O2;1;K Shop;10018518;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+506bc78e58bf0bef718673a37efd8b915cab74596b8e84e840c423ee55673f10;10021300;R2;1;PageWave Megastore;10021300;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+bf42d60a4557801635e937a9e8e55bba62f8430279db820a44dd3d792a34a95b;10013061;R3;1;Gammel Group;10013061;G3;1;International;Não Informado;816-455-8733;5;International;S5;C
+98f3f9f5a2adb8ec8bb9dfc3b8fc7dd9244ddb120a64fdce781a1e312088c2cd;10018363;R3;1;Jones Stores;10018363;G1;1;International;M1;816-455-8733;5;International;S18;C
+4fa9f1a1aaea0af825c7d81c454a01325735974d977400ee7a7a56d425918f1a;10026521;R3;1;Xcert Shop;10026521;G1;1;International;M1;816-455-8733;5;International;S20;C
+fbb18204622fe7797ebfb2b55962eabd789e96cffb58a7c4929289823ef0a2e2;10019812;R2;1;Lewis Supermarket;10019812;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+f1d4b040d3d772deb83bf86e2a194521b2e3125d03e9a6585c5bcf6d2e871a74;10007183;R2;1;C.O.F. Shop;10007183;G2;1;International;Não Informado;816-455-8733;5;International;S3;C
+9f2188f90953249d2390f0af3b5211bd8942255c829e8d7aaf59bebf52229d05;10007591;R3;1;ComeStore;10007591;G1;1;International;M1;816-455-8733;5;International;S19;C
+3fa2189b3b6c747e3d0d41960b4875784f523420b0229da5a692bf275e86bae0;10000488;R3;1;ABI Supermarket;10000488;G1;1;International;M1;816-455-8733;5;International;S19;C
+d8ea26c756d703474e6b7cb824b15398b0bd8017433a2ce887c4b1a1798c10e6;10015325;R2;1;Helius Shop;10015325;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+be031aaf7ed3fa50a986f03c304579dc7c53f9cacf530f6d4d5ff01fd39c112f;10025242;O2;1;Teamsolve Shop;10025242;G1;1;International;Não Informado;816-455-8733;5;International;S1;C
+3fb6943902eaaf3dee72e2d020a652dca1f835e87f22ecd4f1b0da20d03618f2;10018129;R3;1;J.M. Market;10018129;G1;1;International;M1;816-455-8733;5;International;S19;C
+919f697c8193980e94455d075728051bdc3003bb85bb00263abcca4d600dd634;10019420;R3;1;Keystroke Market;10019420;G1;1;International;M1;816-455-8733;5;International;S19;C
+7ea42cc67248dab1660a56f5f5f2b17b8bed6b5f163c3a14479574aa04c4f1d3;10025063;R3;1;Taroch Mexistore;10025063;G1;1;International;M1;816-455-8733;5;International;S19;C
+0e70e5557e7e5f2238dced6b8e44ca54c268f37a44c6be0d72970ee408372b98;10015789;R3;1;hesketh.com Shop;10015789;G1;1;International;M1;816-455-8733;5;International;S19;C
+54b8ab4600a8c64148e71843bda5694234a0c7bc1d6d3eb86a47b487bacbb34c;10007866;R3;1;Camros Shop;10007866;G1;1;International;M1;816-455-8733;5;International;S16;C
+dd84874f001f3dd7291fd3b30d42b2974261774491e4576f690d225d6e9691a2;10022746;R3;1;Rdlabs Shop;10022746;G1;1;International;M1;816-455-8733;5;International;S19;C
+b21bb345a3fe28f4a9c945e815d8d03e7fc34670f7910b49879834f1cb77271a;10021380;R3;1;Pangaea Store;10021380;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+9d8b2104bafe3f93347834f95e5a8a14ba03cf028ac624afe1e6a9bc81ae514c;10005043;R3;1;Bezeq Shop;10005043;G1;1;International;M1;816-455-8733;5;International;S18;C
+2a2a57c7b4c77050f75b37e017472d88851b684fd478212e98b8751bd9df39e2;10020306;R3;1;McGraw-Hill Supermarket;10020306;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+a5f4ce009e4a38ca4346b4eefa08d6689c5c33fb677cbe96fcb740af748ab4c2;10002154;R2;1;Acer Superstore;10002154;G3;1;International;Não Informado;816-455-8733;5;International;S8;C
+5146c3f6c282003ef68b75a4f88ddd810f93f70c9850bf7cfc9877b55a0316fc;10024924;R3;1;T.M. Store;10024924;G1;1;International;M1;816-455-8733;5;International;S16;C
+b68eacbb0fd27eeea0c88bc40dab1592a5a7af5e0fbc791a6344830a8964d211;10011355;R3;1;Enterprises Shop;10011355;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+7231c57fc2fcb618eb5f2133772aab82d72fdd486a08716c60b7f52d4f6e030f;10005236;R3;1;BH Supermarket;10005236;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+ef06b19892acaa39d1fcb0680e8f80449d8b5a03d222447af9fb536ade36904c;10026334;R3;1;Wayne's Market;10026334;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+cd492227fbaea28292a328209b55a0e46b08dc82f5d300f80425a839472d3476;10009633;R3;1;Dan Store;10009633;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+28ad5320ef24a4f2d521c3a47f8134871e7494d8e52aee2e122831ac8e04c4cf;10021111;R3;1;P.C'S Shop;10021111;G3;1;International;Não Informado;816-455-8733;5;International;S5;C
+198205e4b429b6a201d757fe1a71e626d033620e8fc379320c3a20860265a88b;10010865;R3;1;ECS Supermarket;10010865;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+84ea19737a3999c608883818d691ee37eec7d198d1ab191ffdb0d13acaf9beab;10006916;R3;1;Boott Store;10006916;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+95dc24a36e3e52811d1a45f3476f4e5fdd4c0fea3c60f51a720e38a271cd06cb;10024915;R3;1;Systems Store;10024915;G1;1;International;M1;816-455-8733;5;International;S16;C
+ad89544d1dcc612c527343944110a28055634a06dc843039c69d16700d9e65ce;10026038;R3;1;Velos Supermarket;10026038;G1;1;International;M1;816-455-8733;5;International;S19;C
+1f992ee6040c2e91bda03f1fb6c36b23a4e46bf7b150e81d9c31d61d99d4da48;10027370;R3;1;Zeroo Gigastore;10027370;G1;1;International;M1;816-455-8733;5;International;S19;C
+81724173fb4bd1a46b213a4494f7a76f882c22e16268137481d20749e7c3adbd;10007117;R3;1;Bre-X Shop;10007117;G1;1;International;M1;816-455-8733;5;International;S19;C
+b7b1149eb9ed9a901eeda56b996fc00ed26c8495d7eb377b15bcf13f9170f723;10011821;R3;1;FenP Supermarket;10011821;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+ed4b818bb78db886b9057fb913f1abf388f5a0100340e153b2b7502201028c48;10013574;R3;1;Gebbie Store;10013574;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+e11f286eb48a64d56ff6ad04985515135a04fb2a3702bf932b3dd1c9d17421a6;10020281;R3;1;Mb Market;10020281;G1;1;International;M1;816-455-8733;5;International;S16;C
+f15b6da27ede9f620b9320c30c8ffba74bb8d233ccca3396ce8218d66f55eb7c;10009645;O2;1;Day Market;10009645;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+e5a9e97c721b182d8edf24c0c00024a2d6f8418038a26f77d2f4332599413886;10011052;R3;1;Elucidex Shop;10011052;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+0a53c8415db294f3ae1ff2af142beed7a4b9d76d0e30698e78d65c5b40d01076;10020227;R3;1;MaxBan Shop;10020227;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+681b70c9e18646db7064d0531507df341d2941a0668999d855d059e08364fd21;10000486;R3;1;Aberdeen Shop;10000486;G2;1;International;Não Informado;816-455-8733;5;International;S14;C
+0e8ea458779457ecea97de84a583f7cc61f93e75ce1d5f6d78ba65d13b57189c;10010855;R3;1;ECI Supermarket;10010855;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+941bdaabb54ed5a7ed66c34b4d8284162ee7935f4cb213a250d319843d76e703;10015253;R3;1;Hekimian Store;10015253;G3;1;International;Não Informado;816-455-8733;5;International;S8;C
+db0051ed839af1856507b136646f570a9696b0d9221cc033b47e01a6db3620a1;10021006;R3;1;Overdreams Shop;10021006;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+e0e097856c0f9e3d847184ad1d55955fee99b13b23c268efffc4dff7bb6f62dd;10012885;R3;1;Gainunion Shop;10012885;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+ae519af2d6c1f1318b51db26dcb14e68ef1d1d207f5d28365a7726bc81caa6c9;10020449;R3;1;Nancy Supermarket;10020449;G1;1;International;M1;816-455-8733;5;International;S16;C
+cfdaa7f06e574ca23aa1fe121abba0e486bda431ccd414df4f14b478a7b56263;10024880;R3;1;Sun Supermarket;10024880;G3;1;International;Não Informado;816-455-8733;5;International;S8;C
+ede29a7953f2945c1c9ee4b6b14a256ea46701461414c62047f22ac91138d1ea;10007457;O2;1;CalComp Shop;10007457;G3;1;International;Não Informado;816-455-8733;5;International;S1;C
+fcd5716a7e9c9a0fd6753f0bc95004a424373e3484a7984aead83e66bc0471f9;10024477;R3;1;Smith Supermarket;10024477;G1;1;International;M1;816-455-8733;5;International;S16;C
+00207523d2a28ba178f38fbcddc7fd2c12a7eed64f56e8f5199099d9c63a61fc;10013127;R3;1;Garbee Supermarket;10013127;G3;1;International;M1;816-455-8733;5;International;S5;C
+cf6d422f42cba17e66ecd16ee2359619a657533df98675e47610aeaef59e74e2;10001103;R3;1;AC Store;10001103;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+080025c35c9d0bb0df76346e1386fe70225a0f9feeb3f4e0612b84cc778abc1f;10020672;R3;1;Oki Shop;10020672;G1;1;International;M1;816-455-8733;5;International;S19;C
+99c32dfa99c368e9bb9841197d16bddad0ccb5dbc5abfc3dc25047674332e782;10015011;R3;1;Hederman Supermarket;10015011;G1;1;International;M1;816-455-8733;5;International;S19;C
+8a2db3329382934b8d28ca023cc4e421da01402042bce21bc39c83578941f3ff;10021494;R3;1;Paraclipse Shop;10021494;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+f561710679d97f85551a93d942aaef849ca93b6c0ff87ff6e364b8efa0c4523d;10005376;R3;1;Bibb Store;10005376;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+c4e3a11ce0d5c7eb177c4e1afd89a2c6ff471fc53c02f5fbb3658018f045c955;10025288;R3;1;Transylvania Supermarket;10025288;G1;1;International;M1;816-455-8733;5;International;S19;C
+860431297ced64a781ddb654a6e9eb43aec0478ce60cb6caf0dc673e9c75b355;10004255;R3;1;Bendix Store;10004255;G1;1;International;M1;816-455-8733;5;International;S19;C
+8fe192aa3cb4a00af429baaed09ee76b54d5566bdbdca6e2df0187bdf12b1d0a;10000453;R3;1;A Supermarket;10000453;G1;1;International;Não Informado;816-455-8733;5;International;S19;C
+c385afd6cb126d6dc1c3b09e9531c702e4dc1efad3e678c464946c1b48628675;10021331;R2;1;Palo Supermarket;10021331;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+04d3e777c04e403c60ab745c5c23e26fac0a1d6fc674501154434009dddae17a;10021297;R3;1;PageSites Shop;10021297;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+4704b1a761e884e6f548279b869db3bb718fd190f1e6cba8971e9975426c85ab;10022166;R3;1;QualityLogic Shop;10022166;G2;1;International;Não Informado;816-455-8733;5;International;S11;I
+8e1b8801f5b527a1ca757e0a5a3b36ee39bc68d9e07d9b865c91eb49aa4abbc0;10014059;R2;1;GURUs Shop;10014059;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+7eb391e307126f54f8cda4d289e9afb55b207a97cb5028bd54fee57d7042f897;10012369;R3;1;Finest Supermarket;10012369;G2;1;International;Não Informado;816-455-8733;5;International;S4;C
+487aea18742aff8b651a3095480d2950758c7523072d364ee6cdd4c565caa9ab;10021305;R3;1;Pallister Supermarket;10021305;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+2dda2a86bdba5c73e644ad9cd8279477ce5bc70cf811aae8696bf1983feebd05;10027119;R3;1;Yurie Market;10027119;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+8996fe8153d2bb601e680ce4e5d23dd284a6967750eaa5f624db8ca74dadebd9;10021804;R3;1;Picka Superstore;10021804;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+5a2154adcbfb62ce1a83a5b61e53c85cfcaa87164f23e45a4bca5511de5ea68d;10025353;R2;1;Total Store;10025353;G2;1;International;Não Informado;816-455-8733;5;International;S5;I
+242d18123dcf4e22eda5552dc699e6d5dd68725d70fa66378913ebba80045050;10009863;R3;1;Deere Store;10009863;G1;1;International;M1;816-455-8733;5;International;S19;C
+05a7211349afea26e3b4ef2d5cc910be5b7dcce866a5dd81105f6c41f49cb119;10020849;R3;1;OnDeck Store;10020849;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+bdd1d018926b2cbc14c40ed4fd574b2b931bcbb25db6dca57b2afdc124aefad3;10025239;R3;1;Teamaker Shop;10025239;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+20f6ca314ddfb92abcd9c48f64bd8556fc1951c3d83d2dc525969ee37c284ab9;10005861;R3;1;Big Supermarket;10005861;G1;1;International;M1;816-455-8733;5;International;S19;C
+00789fc78d41ba98f46c17fee2ee4b183239d3afe1a02283b9da9502c24af6bf;10021242;R3;1;Page Store;10021242;G3;1;International;Não Informado;816-455-8733;5;International;S17;C
+888e660a1143b88abfcbc3c659a205e7dba9504c04ec2197985275877bf5f3e7;10001786;R3;1;Acara Shop;10001786;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+8e872d987bbe828d106103e52157e55cf4f4bfed0cd71e3edc39e5995dc82f1b;10025158;R3;1;Taskers Supermarket;10025158;G1;1;International;M1;816-455-8733;5;International;S19;C
+b928cc0d9e336d03611fc52589f90d6a087ca0d84ddcfc4a21c5f144c126b487;10025304;R3;1;UBF Shop;10025304;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+950758fb41a1c3bd9f1d5b3225e67e31a4ff8c836f2733bb437bef9004436283;10013011;R3;1;Gamacles Shop;10013011;G1;1;International;M1;816-455-8733;5;International;S19;C
+64e48ef460da2d9584027f1fef3147bb82c54a67cd21884cd713406ca667115f;10013039;O2;1;Gamma Supermarket;10013039;G2;1;International;Não Informado;816-455-8733;5;International;S12;C
+0cb97fcab4421ba7efc74f89ea3b201bc3b3ed7360dd8e66aef6a54035401e70;10000497;R3;1;Abplus Shop;10000497;G1;1;International;Não Informado;816-455-8733;5;International;S16;C
+698faac98a4d250988d179c2465fa0fcaa47d63811e30b558d0f8979af7e13c3;10000499;R3;1;ABSolute Shop;10000499;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+821f3f2e27fec4cc4ce9008342b743b67e9e60368efd626822f78908fd5592b7;10002520;R3;1;ActivCard Shop;10002520;G1;1;International;M1;816-455-8733;5;International;S19;C
+bc007d335b2dfaa0b34f9780603c0ac7886b6b07713889f1f3d3484e65692fc7;10012328;R1;1;Finder Shop;10012328;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+613fb6c1f9a51fa65bb0f1856336e9a1aea5a7b2d0bf473baf009ba01e181783;10019066;R3;1;KENROB Megaplace;10019066;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+19d998d6d501340f0c5b1c5dc5f93e80e168de963006cc7ffb94e94f12ef2d6d;10020492;R3;1;NBTel Shop;10020492;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+f4af1156bbdffc2801e471af75a10300743f0c3e62a8c30b41f48991462cd791;10024704;R3;1;Sterling Store;10024704;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+6f44735390c27d0f3b8571ca8b33e8dad3a4b3da78fa274445648ae029c6bec8;10013397;R3;1;G-Com Supermarket;10013397;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+c4defe221df7181f261298011d0c3c2b8d2f50b0428ebf8cf5f46095cbde5c86;10023964;R3;1;Science Store;10023964;G3;1;International;Não Informado;816-455-8733;5;International;S5;C
+7ad3ebbfac5ab1610b0d47311a9630c1dc5b6b6c1fef3b8e173a59fa1445e99f;10020907;R3;1;Onebox Shop;10020907;G1;1;International;Não Informado;816-455-8733;5;International;S16;C
+39a659589edd0383aae736cfd763ae4e3f64482b2f89172544cb90957846543c;10025022;R3;1;Take Supermarket;10025022;G1;1;International;M1;816-455-8733;5;International;S19;C
+760ec5ced3a3651a4d0ef792a87610c4506093f2b90aa0a5f066947358c348c2;10018877;R3;1;KAT Store;10018877;G1;1;International;M1;816-455-8733;5;International;S17;C
+dee9fd9c8d8d18bffbb01150119e7b5120c225d869c63e84e176ded828462efc;10000457;O2;1;A&G Shop;10000457;G1;1;International;Não Informado;816-455-8733;5;International;S1;C
+0de74abdfb6bbd188c42eb2a5e9196cd13f13dc1785ed8fc1c171ad9ce332c13;10012157;R3;1;Fifth Store;10012157;G2;1;International;Não Informado;816-455-8733;5;International;S9;C
+f44ecbaba9b3920b4cee0c024d9a00425296573e4f6f5e4b9275ba44f266bb74;10021286;R3;1;PagePoint Shop;10021286;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+54fef95557de691f8a71e0a24c95df99155316f4fcb030452429febff88c416f;10022978;R3;1;Relcom Shop;10022978;G2;1;International;Não Informado;816-455-8733;5;International;S16;I
+d62926efe1ccb90b5864c027b93872426e944d4420a8431dea8ee3d107566129;10011345;R3;1;Emergent Shop;10011345;G2;1;International;Não Informado;816-455-8733;5;International;S16;C
+a8023a40897f4b2f79985648c1ddb76030018a188ec3ae14b871abfc2cc08526;10019194;R3;1;Kerite Company;10019194;G2;1;International;Não Informado;816-455-8733;5;International;S14;C
+78a100758c93944dadeb6c1a96dd81ebb828d0b9c8c83d243cc7a68d2896f495;10011600;R3;1;FCS Shop;10011600;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+1d17f4ffbb9d77bc3fe24e092c673d53012f9fa480112c8920778048b1731f2a;10025467;R3;1;Underwriters Supermarket;10025467;G2;1;International;Não Informado;816-455-8733;5;International;S1;C
+189d371380585212d8ef8fc5840c38d8f097d144eab9c58f0ccceb93c9ece04e;10002153;R2;1;Ace Market;10002153;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+5492e6c8120b17411301bb2eb74c6ae300f3950a70b6467bee5f0b2391c9cc63;10021411;R3;1;Panix Shop;10021411;G2;1;International;Não Informado;816-455-8733;5;International;S4;C
+c0392373b9240539a7667a6ca9ccae4ce062b16183ec971096d8468452f84977;10025086;O2;1;Tartanchase Shop;10025086;G1;1;International;Não Informado;816-455-8733;5;International;S1;C
+064b1c26ffa547d14adb9195776e625d73cbad9bb3fce940ae7c5d77922908d3;10020247;R2;1;MAXSTRAT Shop;10020247;G2;1;International;Não Informado;816-455-8733;5;International;S5;C
+5917548d1b18ccab1cc74986d927186aff5ac126ee1113e3e7253c1b1ef69eee;10012761;R3;1;G.R. Supermarket;10012761;G1;1;International;M1;816-455-8733;5;International;S16;C
+02afe633d050b258f925eb9ab666b5ca6203726ce125615c5fa6effd9060b778;10017638;R3;1;Kellys Gigastore;10017638;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S16;C
+f51081abf81be22f180b2595e371a7546339e5a0eaa7452ce8cf3d25e9c0b252;10020962;R2;1;Output Supermarket;10020962;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S5;C
+35358dac025f1b79f6f102421e070364609cf2cdeed0034ce48bdb1bd65d3c16;10003720;R2;1;Age Shop;10003720;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S5;C
+d5e701a43977e2a0a0a31ee7f16eaae57be8d6a65d78fd9cdfa6650d54272af9;10008638;R3;1;CAPTA Shop;10008638;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+c601baeeef8d8aafa428345a8c51b35fe96900c1ce4331a2973d3f0874e50bca;10024246;R3;1;Siemens Supermarket;10024246;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S16;C
+ce769c40e8b78275d14e7bc6dca867998ba03516fcb5bcb93afaeb0f01d1ead3;10018665;R3;1;Kaim Supermarket;10018665;G2;2;Domestic;M1;816-455-8733;3;Northeast;S16;C
+848f8f702be6995e0674402e133674b9a064a329d4178707bfed87b66be2dd75;10023760;R3;1;SataMine Shop;10023760;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+0d19d5f7cd632d470dc7aadb94163eb1a308fdf7eacce4109f390a24a6b563e8;10021996;R3;1;Pinnacle Supermarket;10021996;G2;2;Domestic;M1;816-455-8733;3;Northeast;S16;C
+7c36c12d9f5518b8902c917c726ecdcb4070ebba7ded30bdfba712fc8f279a6e;10025247;R2;1;Telesat Supermarket;10025247;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S5;C
+24ef2e8a67c2166b5e82393f81fe795200a5d13ca285e961ad416e395befb764;10016303;R1;1;HMR Shop;10016303;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S20;C
+ba9227e82a288543ee2690d5bcb037150521df3690bbef063e95a1c1001d3989;10011997;R3;1;Fibronics Shop;10011997;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S16;C
+b9c1973bc035487629a27f997b6ae1c15f3ee38b5245b9632a37ba0978e0e499;10002240;R3;1;ACS Shop;10002240;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+10b9a253ef0d00002b76976d8b8f3715c7bc279c374804613ec57b9eaadba8ab;10021470;R3;1;Papyrus Supermarket;10021470;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S16;C
+1e525c153233c0219d533b52a2801f758b46dea2c9d4de461a90a171265a407a;10025771;R3;1;VA Supermarket;10025771;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+97edc116ef667d0145661b1b5742c2cc88931dd5b9edab65e20bb5cf47b15844;10019880;O2;1;Litton Supermarket;10019880;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S12;C
+2aaef090cc6b1646503cf080520c710b0d8e3f5973db8130bdf6074297d31ae4;10009662;R3;1;De Store;10009662;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+6f43d2be10c1227ebbd6b69dad46b63bb2b59ecf7deacfe7928ae16b706d521c;10010906;R3;1;ediSys Shop;10010906;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+f1f6ddee0d0d20274ae11e25787e2b68d11c845452b48131b9995ad4469d85bc;10007577;R3;1;Cam-Built Supermarket;10007577;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+ba7d53cc7ee7e6d794e781e2ed5cbce2e0448c5b88f7662ef66f93f5a30d25b3;10025038;R2;1;Tanager Shop;10025038;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S11;C
+abe9f071b46775044ec8c416d6b371b733067dc8a24a3c223ab90943c7db9ff3;10008602;R3;1;Caprica Supermarket;10008602;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+7272d5ac68900e8ee77d117ed0c6c27d862946e294252a934defea2a2c3bc6e7;10002969;R3;1;activeDesign Shop;10002969;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+b50dd899d26bbadd751f67e0c2f13581a39adebec1224359a1bfd24b63d05107;10012715;R3;1;Fokas Midstore;10012715;G2;2;Domestic;M1;816-455-8733;3;Northeast;S16;C
+2673470791fad22f3a3c3ce4bf8b096573032a99a609212d284fc539a05c3a4d;10025583;R2;1;United Market;10025583;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S5;C
+d0d2a968efa7380f30a907ec1bec688da9d150f1fa8c6ea918bf38decbaf4d33;10022678;R3;1;Rave Supermarket;10022678;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S16;C
+501dcf6d7162ae48f5e74d208321a6279ff9db5904fd7d592de6f33689d1516c;10006848;R3;1;BizNet Supermarket;10006848;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+eb12d524ce95841fd05af09976438412f48fce8b69c91d6983cb4c2f9fcf62f7;10011198;R3;1;e-MDs Shop;10011198;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+09e6d98bb9bf2b013d6582c973d27dcbe8d709c8e2496b444af1889daf3a0f83;10022431;R2;1;R&J Shop;10022431;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S11;C
+400d3b0c08bac646817ebb2446a0812b64bf3d46ec90966d4d18acd6f8541b4a;10025300;R3;1;U.S. Market;10025300;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+e943b80448e3f7bd0f6756d87d1fcca225ba1ce3b1f2a0654c0a01c9fd04198d;10014779;R3;1;HBO Supermarket;10014779;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S16;C
+0c787aee4a35f7c735ec6ac8bd90ecdda532a3cd71141a638cf9a8e3a9a1154a;10008134;R3;1;Canter Shop;10008134;G2;2;Domestic;M1;816-455-8733;3;Northeast;S16;C
+2f17ee5e6cb664523ac323fe2a5a036713d19c5f743c6797a41c490dca996ee7;10015783;R3;1;Hershey Supermarket;10015783;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;I
+7ae78b24ca7661d9ba9b4d7a898d84c38f498a3d0c94f8c35beeb16bb50aca9e;10025549;R2;1;UNIS Supermarket;10025549;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S5;C
+a81593747e3eec0d9674f448b0a4dc0444a37dceb5bcb43f7f2080284fde4513;10027572;R3;1;ZipLip.Com Shop;10027572;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+5815c4885c4371ec392065599662401d25cb6284f35b8bc64174cb3def946d1e;10027340;R3;1;Zentrum Market;10027340;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S16;C
+cb4a771a3e087e866d537336c9988283282797b381de4a9dfc6d16e016e636f5;10020388;R3;1;Metro-Goldwyn-Mayer, Supermarket;10020388;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+af24e33c68c4a44eb72b64af96ce4fa1a5145bb783a360aace92ea0ed5472e48;10025062;R3;1;TargetedListings Shop;10025062;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+eb7e6191211a1d80c12837e997cdc1f7157b86a4a586f0529fc3c6b3adfc52b8;10009657;R3;1;DC-Works Shop;10009657;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S16;C
+6c67d9fa13b458aed709ccc44b5b0c9f3e2352936505d03d518000237d8aa657;10019105;R3;1;Kensington Market;10019105;G2;2;Domestic;Não Informado;816-455-8733;3;Northeast;S1;C
+253d4a70cdab919510204dfe5f9c2caafd954499fc385634b5b5f4b862d83649;10000472;R3;1;Aaron Store;10000472;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+a4b95efa5d0e5e2c8531f6f572b7df30b9b915bc82f67178a978382a9659d46c;10025769;R3;1;UUmail Shop;10025769;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+fe860f77ec85213ac75091adbf0e2bc5f632b7ec4cac2127f458acb06bfbde8e;10009631;R3;1;Clearout Shop;10009631;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+b6e67775cd946b9bd84fab3e9983ba0c420c199843eb5950cf48ac66775b400a;10021184;R3;1;Pacific Supermarket;10021184;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+4a55e67677785b1a011b76b28c489c618f7bc978fd48c79d03d1be8655dae671;10007120;R3;1;Brinco Store;10007120;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+4b145201bbcf2fc0d0cd6255f1a44dfa8ccaa336947e8610234a1aea4ebf7fcf;10014495;R3;1;Harvard Supermarket;10014495;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+04270a8df3f37ed76ab1368f13eec00b6bce2f1d698a120166d1126572de0715;10025033;R3;1;Tally Store;10025033;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+0eae669750942287ecfcc35416cd061212fe4a097cd621a160d68a1719ff8484;10014047;R2;1;Gulf Market;10014047;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+9288224d16a92a4f42b62e59f0d9e99e85e57a689cb8f7d7e8b9bd52ac6e3318;10008381;R3;1;CAPCON Shop;10008381;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+1170d110c60c6c8728ff7631ac065f40c63939f12ccbb6813db39d740f2fb00c;10014546;R3;1;Hauppauge Supermarket;10014546;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+55d8d6e7ea391da2e97460185266a68f2f52df25232ede6e5bc89bdda296259b;10011981;R3;1;FIBERWORKS Shop;10011981;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+2e6cfc28245243b5a375399ce064d8322119ff8af27cfd13872871d56dd2f01b;10002506;R3;1;ActionWorld Shop;10002506;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+25677326276e0bcbe6c2a1c7121e34e80378a349c3a542087ac0352b1d6f2d91;10024743;R3;1;Stone Supermarket;10024743;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+c9a8a693a26a364d01dca8a4ce33dc9bc567e7e55e2bfc0e8159727f8a11e43f;10021422;R1;1;PAP Supermarket;10021422;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+118792fd890a5e84f57f93bb1ba8811f559feb2de79b90ad7c6e38bccbc5bb6a;10021203;O2;1;Pacific Market;10021203;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S12;C
+58ee49bfe4edd864bb4b8dbd4ef335ea12924f47ca5c731d5c4f18227bbeb949;10015030;R2;1;Hegemony Shop;10015030;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S5;C
+1f13aad58a6e7b4c7a5235349ae5d31ff6267774aa466d3a5060a9226a3aa059;10009672;R3;1;DEAC Shop;10009672;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+953ad612363e682f52565fc35f42cdde676cf2384de370d2fbdfd6a2377569ed;10009656;R3;1;DCS Market;10009656;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+92572cdd560bb4b9c7310442106979a19abd97891eedf84a4e6aa913673c3098;10012234;R3;1;Filmotype Shop;10012234;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+30708db35d43d4436bd0ab2a96e4fb299d44d8ea3076ffcedba19370a4399baa;10004256;R3;1;Benedict Shop;10004256;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+9e365f4c249302b39b64d2447fa1ff46aac6a2e5052b086aa18e1fc0a92fe44b;10000480;R2;1;Abbotsbury Shop;10000480;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S5;C
+55456d60f09b6f9f74cfc194588d9d90696bcab17fd309afcd485c18124f15ce;10027381;R3;1;Zero-Knowledge Supermarket;10027381;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+9c07602fdb967df18700c681d1d0b05240b20cd3bd3b5ee41730b9208ae079cf;10019388;R3;1;KeyComm Shop;10019388;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+2ceca8a564a0930107cc3f3ec1529421a53334e240cff0dfbec0e43f33a090e5;10010886;R1;1;EDGE Supermarket;10010886;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S11;C
+e682e03737214bd2d344d9ac8de129840a7e19608c85874ee76c5c72c4788915;10022434;R3;1;R&R Store;10022434;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+d8d214689d7224ef4b9252756d0a6075a56e977f55e12bf874926afc1ea7857b;10011398;R3;1;Ethyl Store;10011398;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+401802b7373f20b0a986a0b6e0a564eb4348de383a8e7a617158a53438ed9c9e;10018628;R2;1;K.C. Supermarket;10018628;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S5;C
+768da53538a8746523b78012437c9c9cc6374c85395fa68b4c4b20c28bea70d2;10020663;R3;1;Neos Gigaplace;10020663;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+729bdb915156d225cc13b1ebe9dac29560853f0777f04a98ae072e258e5caf35;10000473;R3;1;Aaron Supermarket;10000473;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+a9f47f7915d4253b7a34d699db1f74f9e330150733e8a198b72fe8f377416c49;10019109;O2;1;KentISP Shop;10019109;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S12;C
+85ef9167af5fded9a437e0ae7446064589ff8f0819cc8e62aedf052734a9df12;10010698;R3;1;Earth Shop;10010698;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+0bce73bfd7d3a308b03c103ae7fa61aa60dda06cbde515a155c5c33013b5b48c;10020192;R3;1;MATRIX Shop;10020192;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+d93048f4288a800dd45cb15f085b6b917a3c9892211634e8290fc753672a131d;10023489;R3;1;Robust Store;10023489;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+32d02fb3313731aec7ffe7da492d351bc24c78cc8dcf6a48bb3a4af031302a94;10019900;R3;1;LiveWire Supermarket;10019900;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+065caea1efd3fdc4874e35e7f1f3787c2eb18a1642adcce46026fcf9b337a190;10021179;R3;1;Pacific Store;10021179;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+b1b667ea506578bf54fe230737b586d837dd8af1fa20494a300fcc1a92f8914d;10025778;R3;1;Valicert Midstore;10025778;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+6ca18ad1b29e2038438d71bb004d3135fd424a4056bb53250936522047adee5b;10025919;R3;1;Vanstars;10025919;G2;2;Domestic;M1;816-455-8733;1;Western;S16;C
+08b8a13a371b8774eabf8fa3e12318d787780f33cb194da74ba8d8b8b6aa8b9f;10016858;R2;1;IBVA Shop;10016858;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S5;C
+e7698a7ab27aad399fa9b73a42d574ed3cc248e83c7c2b9493b5bbe620a6cfa7;10025284;R3;1;Towmotor Supermarket;10025284;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+0fb70a057a903599aaca2004e82fad3582416ec3b90c0f5d07d5bc56dbb7b5f3;10025305;R3;1;Ubicco Shop;10025305;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+72c1017d6c2c967bcd54303622e9773243b25d2821a57641af4d956b65b78e9c;10000455;R3;1;Caribian Supermarket;10000455;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+fc383bd790402f00a7fafa93094b1b5e7fa692a068e16af3e5dadd58e83bb49c;10021222;R3;1;Pacifico's;10021222;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+41fd6a80fa3af843a80ae24f37792bede802c528a3a30d41afd036060da1e17d;10024248;R3;1;Sifton Supermarket;10024248;G2;2;Domestic;M1;816-455-8733;1;Western;S16;C
+ab4d7b4f273f3a0f8a868ddf7241644a5e664389eaa3cc3a8374bf026f3ceef1;10026355;R3;1;We Market;10026355;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S3;C
+6da5610bb2674f98fa35b5f0c4de63941f02e828d901afaaf8628bb348a4e1e8;10020393;R3;1;Minneapolis Supermarket;10020393;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+ba34c5bad3ae258d9e9becb6fa68f1d00a3d2af1c292dc294837423b04239bf3;10025791;R3;1;Valley Market;10025791;G2;2;Domestic;M1;816-455-8733;1;Western;S16;C
+b522d032b1daa16fd9f366321bc19bc0f894fc76c32467658739395efdafaf7d;10025238;R3;1;Team Supermarket;10025238;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+004f0ebdeb8a541706def4d856ee500ec16e487c4f0fc8641e8a3b2ba23dd00e;10024262;R3;1;Signature Shop;10024262;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+61c983ed29347b8abcc6a75f1bc7a7da805ba9cc48ae5234dacfd68b555e4706;10005006;R1;1;Betacorp Shop;10005006;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S11;C
+08f7a01e38fa3c9e22219efff62cbce8a1afcec40c77bc29afdf057ed6ebdf8e;10020931;R2;1;OutPost Market;10020931;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S5;C
+b417623ed2f19199f479ec249b6827cc9015c2d39f0b308b8acdd446cfa54b64;10025264;R3;1;Today Shop;10025264;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+292f745f64a111f2abcb522775f0efe036240008a1b4a858815b2bf000efef76;10009647;R3;1;Dayton Supermarket;10009647;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+34449928639ee426ffff42865a522711fce2bd76f85f5a8cb975e7b06fb0a43a;10023275;R3;1;RFI Superstore;10023275;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S3;C
+3225c6741d8b9694fdee6425e26be5a96aa634d2bc8b16dea319b864bdc9c934;10024270;R3;1;Signatures Superstore;10024270;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+681d49a05c5ad32c8fd42bab8b4de641ff4fb9498aa4bb5ea9589a32f6a3be49;10002709;R3;1;Active Store;10002709;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+647408665faeaac6b8a5a98bcff380f3880665bf4a5beb39c2a062089ea64f66;10018885;R3;1;Kawneer Market;10018885;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+817f6d75b8255c951333b00c99a8e612da486cbe65b2bc9530bd6ea66c3f313f;10021418;R3;1;Panzl Shop;10021418;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+5e91f5cc53fdd7a95d35d841f15121a0ee771a13a808cd6ae992e8fa26ea0117;10023778;R3;1;Satronix Shop;10023778;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+4e29abdc4f9cf275e3d991cbfd36c056f5d3e18db5469702e0a6a472f14d0ecd;10004245;R2;1;Bens Megaplace;10004245;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S3;C
+0ec26c66f7708f1cb06c07ad52a21cde83e6dd41c1386da97dce646eef61b951;10025051;R3;1;Taos Supermarket;10025051;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+965f6ef70dd939b5dd04d0a75098c50de5c35fe6536332118899564c9c2b5cce;10019678;R3;1;Laker Market;10019678;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+58302d5aee3805e9c3a0d6b9f11107860669e3a9309ca5d0ea65390d7dcc8546;10023212;R3;1;Reuters Supermarket;10023212;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+23fc5a21df786cf0449cbc74a11de296956cce47d9c5f81d18e75d088a9dd4bd;10025049;R3;1;Tao Store;10025049;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+595fab2df6f9e30121bb7ff698a9395aadb79c0d04a986a94ef6229af31f3f52;10024260;R3;1;Sigma Supermarket;10024260;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+ffd2a76c8175ed9def010fa132da819cf6d42e591e2e26f205a4896228b51f5a;10026861;R3;1;Xyplex Shop;10026861;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+7d4592c5d4916e52dd7a61748367d6129aaf36ea9db0b4acdf8e75c6bf2f3209;10017828;R1;1;Lee Megastore;10017828;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S20;C
+f9a5fe0b17530010d6ce465f1acfce640c8754509f1ae182264e91ffba8d68b1;10026843;R3;1;XVT Shop;10026843;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+1e65248f08979b9cd021761d41e1eae6e56e19c04bf434d9a3157a1fc0305d20;10022183;R3;1;Quantex Supermarket;10022183;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+e0b3d32a88b04c08aca58f1a563a181da319316ba6bced05a7762b5078d265c6;10024003;R2;1;Scientific Supermarket;10024003;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S3;C
+1285e72f7627557ac649b13f60f9e7a4574587d48fec19486b84468be4f5a03d;10006846;R3;1;Bizmarts Shop;10006846;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+c728d928905e5b8b36b3c0de4dd92626c3040b9fe27cf006a9000663f4bbdbdd;10025025;R3;1;Taligent Midstore;10025025;G2;2;Domestic;M1;816-455-8733;1;Western;S16;C
+f61ae7169a7434d07fa3b85f0646c797dc3682cb0adb7664885ba96bbb27a7d9;10025037;R2;1;Tampere Shop;10025037;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+b756b9383c55dbb340b08f31910568cc94eb7bb1807927a6f021d496c3fea40f;10022456;R3;1;Ra Maxistore;10022456;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+01e2ee74bb09adbf21030ac08a335d6f01f83ce6bbcbdb238d8cdc687ad479d5;10024022;R1;1;Screen Supermarket;10024022;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S20;C
+1ca7eae922d9c4d17329d49f230355e3f741f3d9fbf8d370d254a233835c3d55;10015793;R3;1;Hetrick Supermarket;10015793;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+8bf57a67f476548dfc88d58ecccb9c692a08c8930b195ea467be6b1e911d454f;10025034;R3;1;Talou Shop;10025034;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+ba33091d487577c06f38cc833d58d6028548e288c54e29d4749682b4f175fcb2;10025248;R3;1;Telus Store;10025248;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+fecfd90ba13ed6c4ffa4fb5424d554fa186d1b775ed6cb723a4a8bd50dc41616;10008893;R3;1;Caravelle Shop;10008893;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S1;C
+45497faf9a342d14c09029d2690c220139272d157f25eebe57d3d91f35c85c85;10021412;R4;1;Panngea Shop;10021412;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S18;C
+d8cb1f24a33c09950d17919a5f8f84e133c0d6d237feb5f9c4c9d8c1ebc77ecd;10025289;R3;1;Tredegar Market;10025289;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S4;C
+77f61fe1966b3cc7e39c7eec0dcda56a9bc7c505752188a5edb4dd156c3f09a4;10023513;R3;1;Sagent Shop;10023513;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+4da06ce50decb83b801d5be3b41f87635ed264190543c3f0764f8466c2c48696;10009985;R3;1;E Supermarket;10009985;G2;2;Domestic;M1;816-455-8733;1;Western;S16;C
+6936f9280025b8e700f926081f8d983017a893a70c8a7126aad7a109fc707fdf;10000466;R3;1;A2Z Store;10000466;G2;2;Domestic;Não Informado;816-455-8733;1;Western;S16;C
+1dc47b5d361f41a070d988f8e488552a76d3223817b6e11831caa470980c95a8;10026078;R3;1;Venred Shop;10026078;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+65eb85a824a2123373325a5e7b41784aa5cebf9475469404d0e2304a503cb1ce;10025039;R1;1;Tandy Superstore;10025039;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S11;C
+6d93e5e9be13ab91ff135fd9c5fab364d2a5b22b4a69cb1469d3331b1345cb40;10008593;R2;1;Capitola Market;10008593;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+961e4b50ea588bfac1c56752e7b6d2c84ed1a646f13e3521fb6fc5f39fe75885;10025251;R2;1;Time Supermarket;10025251;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+d264656f4d37abe438e9347d1a83b4d32097300b235b9b4d5086dc371e3ad290;10013765;R3;1;Gemini Supermarket;10013765;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+4610cc769b24b822689b86f68d30951e15a9b8c54c93e64e75b9105f0b69e5d6;10022444;O2;1;R.J. Market;10022444;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S12;C
+4acd49fcb1b364757ef770286b6c2c20d7fb8b52a9a3ebc1996ad748e77ce60b;10019942;R3;1;LMAO superplace;10019942;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+074faf1ebe9c89e64179f95c45613759fbbbe10f7fc08804d229e9d9651966f8;10026606;O2;1;Xilinix Midstore;10026606;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S12;C
+20b01ed044859fa14a8cec130a2e1774a974ae522e3e3d83d3e4ebf586e8d8d3;10016334;R3;1;Hobart Store;10016334;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+f12a253b7073931f915fb1c93658c9a6c40558113f587472fdd4308f238400f1;10016807;R3;1;Ibis Shop;10016807;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+e04a7408e03cced9e86ea1a34cf04a01df2a58d975132d3faaa0d82d5ed82a38;10023003;R3;1;Remedy Shop;10023003;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+0bf66152dd758ce200ee612c76347fb2abf7797f4bfb3d6b42bfdbf5dbb4b632;10009642;R3;1;David Store;10009642;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+3819ab4c28c25d801f8deb6c1e7a32cf4c121dda88326f6422e3824c9340e032;10013509;R3;1;Geac Shop;10013509;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+160efb0905596f8e8ec0a9875d3c33a285091749347ec8461954f976c59a9efa;10012226;R3;1;Fills;10012226;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S13;C
+3fc97f376107ba39a759579fdc00471f0534f85b9b83c0e4fc8e4ac32fcc4e1b;10024524;R2;1;Southam Supermarket;10024524;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+2a203debc650f279532098355e64022e0f0af2bd1c6dd2356ce0b64601a958d6;10022423;R2;1;Qwest Shop;10022423;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+160697fcf3a92417e00e00a225043ae9d15e9248bd39b43ea26cace0cfa63342;10009676;R3;1;Pereras;10009676;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+90b72e3e2d289d605862b5050672bd201d14ec4fb6b01c7cb3e8ff8391439224;10021986;R2;1;Pinnacle Supermarket;10021986;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+dc4abe373280bc6c1fec91ff1064e05e99f74f1aac7bb3908c8ccffe446b6251;10025061;R3;1;Target Store;10025061;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+23cc550e1d6f9577eb1d75a70fcc3300b76a41cef251164bd1cf1d2d27146a47;10013238;R1;1;Gastown Store;10013238;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S11;C
+c29e41be4e7a6f5f40025b5f98cb476ac6db7508d3c702c23aa0dbb699e3c578;10027050;R3;1;Your Market;10027050;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+d6481e0811c14bb9feed684e0503f406109d8b4bff47fb87b25a50afd72375b7;10002746;R3;1;Active Supermarket;10002746;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+6204a246788e6ef02f2e12522dd93c9668f5ae0aded1b32c672e6df604a41f99;10010969;R3;1;Edorex Supermarket;10010969;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+97a53909210adae0e1daf3b411218592319fd93b164075868fa38f3833ab3755;10014469;O2;1;Harte-Hanks Market;10014469;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S12;C
+73ac5db73c539f177784c31346366f46c924e93f6b58f08c4c35846f9e14f608;10021977;R3;1;Pinnacle Store;10021977;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+2b9de3d803550cb295ec238c949d614200e419f29611770c73161ee36221d23a;10021485;R1;1;Paracel Gigaplace;10021485;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S22;C
+45455f80148179f7b56ac61257526d06bbc9ff80ae7f817bcc44de3eab20c298;10010914;R3;1;Editor Shop;10010914;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+c935d6ef348c31b24ea0c71dfedddaf858d1d4500f3586453cf24fd786f9b61e;10007566;R2;1;Cambio Shop;10007566;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+17733a9ac554980f6a610b6a9fa8470ffa2e6e520a5d122a98dbfaf63e9e7908;10009643;R3;1;David Store;10009643;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+4e9d597ba60d5a235229443f1728c3f8940741e5538bf2c3bb8c916a1cf1aec8;10014810;O1;1;Healtheon Shop;10014810;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+7b21d25281b316744f29df75b1db1f0cef241d42a044230365f79aa6ff70fd64;10013472;R3;1;GE Market;10013472;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+6c0e54e6506d70704f1f30158d55da7c00920fade1c0d61d83204e6478f9ed6c;10026522;R3;1;XCOM Shop;10026522;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+d90680c8752c5eb460e77e53aa876aa3e5e6a3546f6851e5bbf0e185c6cb5273;10020927;R3;1;Outbreak Shop;10020927;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+34e6abf815a6e64959b058625ba38cb118510a6c0310548c1b562fad38e4d171;10009356;R1;1;Central Supermarket;10009356;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S11;C
+d4071afe78b59ed0618c867aba67177df8b22e88996aa5f30d0b78ebfc687b44;10015275;R3;1;Helios Shop;10015275;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+7bbdbf0ed96c718fc0d460ee9868f24fd4d1fe46777555e0cb6f56ef5927c853;10027053;R3;1;YourFuture Shop;10027053;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+86dc35beadb4fd2f26b99baf09b542214abe01a2b27da3a03150ec4184b8954b;10023715;R3;1;Diss Gigastore;10023715;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+7b5bd890b600e1f85f1fb95705c8e190e56d53e60c756963a674a38f7fd6caa8;10020915;R3;1;Ottercom Shop;10020915;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+cd88ba36ee10680f3744b82025236e7b14a95d307b92c8ad68803a136c6b9f93;10026055;R3;1;Dellovade, Supermarket;10026055;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+eef99335261f88f8a5ff56d49447ef79462c6f0f50b6bf971eaa0b292629791d;10015495;R3;1;Hennings;10015495;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+b3f86ef6130ed2283d523cedb720e279e923d11d5118b793b2495440009b6a67;10009156;R3;1;Carden Supermarket;10009156;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+ae764f7c6ccc24a55dbcbeb1d0aa4a690146cb2fc8d95bc452995eeb718ead64;10025296;R3;1;Trust Supermarket;10025296;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+3dcbf120fe1b34e12fb2fe856d96bd263c85151971a3bfad3156636571737b6d;10006093;R3;1;BigJobs Shop;10006093;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+aac47c5b16a3553ce78c470a308936fe2c41b4d6300b58974e5d43c5bee9e6e2;10025036;R3;1;Tampa Market;10025036;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+677e3ac65df282ad598e236cb97b97303352a083573555c8322103de7c1df164;10021231;R2;1;Packard Supermarket;10021231;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+b91fb84cb230e4dae40da15dd48f3586d068dab3807eb4cd0502e185c737b6ee;10012425;R1;1;Fins Shop;10012425;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S4;C
+31885e66dbfcc9b1851d5de2f08469425ca2434aaa9f60cb75d95baf755f1208;10013232;R3;1;Garza Supermarket;10013232;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+61e70336adde2acff8de08ba0babdfcd657888d045f2a8cc0f17da2264bf781b;10023023;R1;1;Crew Superstore;10023023;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S20;C
+6bf5002c3abfdd44c209eb6eb810002f2ab55b0a2bdc2464e2e4add7cbc67e7c;10019682;R3;1;Lamson Store;10019682;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S3;C
+f918fc3360942610429ea5cbc47027e6e7417b3430e07d3cd2f8a678352f5691;10021223;O2;1;PacificServ Shop;10021223;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S12;C
+18921f60a10e11d2d39e2df91f7cdefbb6f49c11c50a9de2052f236373159f21;10018871;O2;1;Karsings;10018871;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S12;C
+4fb1aa317cbece3fcc1f9907b007ebbd3e41d25dbd0ce9102b7bb2ea0cd15b82;10010974;R2;1;EDS Shop;10010974;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+282327a6da76cff29b1d2337dc0f96e92b7484718b367625c459ca4df47f10a6;10022490;R3;1;Racal-Datacom Shop;10022490;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+e39133a64a2811a34a5f16489f79ceaefd377fabd0df4a3cb527295e90462471;10025021;R3;1;Tailwind Shop;10025021;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+28045f3b7283553cd9f89075b815081a0644e86200c79cc2937f58aa477e6856;10016045;R3;1;High Supermarket;10016045;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+74da5d81a053834c8f89131d5c42ac2e8aec0b8dce4d2ddb68a0dd3083f8da04;10025571;R3;1;Unitec Maxistore;10025571;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+3b4f890825701a37ea8ceb540bc679cbd256248ae2a86690b6f5342319326501;10021139;R3;1;Pace Shop;10021139;G3;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+68aa718a9403527cb33d991782c89d3f4698c0778f5b0c469f311cf132e395da;10016784;R2;1;IBEX Shop;10016784;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+02bd110e18389b5b593da8f8942f3461c31f2c3c2cfbbc6a53dd793c0e0965e0;10021668;R3;1;Pathlight Market;10021668;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+2e62e28cc2727b2bcd2dd67ef6169e3e429fcdf52a0f7f50fe31eb8acda6a753;10023785;R2;1;Satyam Shop;10023785;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+0f957e821cf05bf29ae6bbc9c62890530e21a166084c331e4e3928dc4d746ab3;10020445;R3;1;N.Graphics Shop;10020445;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+e923c9131b36dde08a2a44a027d4b7982397087e02b3be542c7a3d4fbc91e78a;10018867;R3;1;Kari Supermarket;10018867;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+38c01bb9f65be660e9c2fd61fedb88746f91f4a2296d922d27f31afede67cde1;10020446;R2;1;NACSCORP Shop;10020446;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+34a939252243606184f18e9d63e4f7087413a497373cc7bea4098ba37f1ca4eb;10021415;R3;1;Pantech Supermarket;10021415;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+9b59ad54b48640f0a0adaa54a98e7eae488ad87ee12f3db394e97a0929d36bd4;10000458;R3;1;A&R Market;10000458;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+44b670d61b59e344f82e11c7a75915ff3d933f758c76dda4c489bd1d8d38b5ae;10022252;R3;1;Quantum Supermarket;10022252;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+8ba9101d31acbbf6d10d7eb7c0cd29655b6dfbccf1e062800a70d227076e8c31;10017054;R3;1;Icon Market;10017054;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+70be6c25ed4860c7b87b654afccd0a09a0d9408c065e2a63265dea81e23b1b8f;10017553;R2;1;iLanguage Shop;10017553;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+fdd9459882ea2ca563acb2f7e9e03fdaf2b26bb6227e9a4b9e5d2dceb6bfa549;10024255;O2;1;Sigma Shop;10024255;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S12;C
+edbfd37308e06ab3f4727a621560ec3728fd5566cbeb344e6765d2f56b9930bc;10024010;R2;1;Screaming Market;10024010;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S3;C
+d7555c337ffcd11487f5b7cd0fafb6c2b41f77b8385ea5332e6d81b81b88369c;10000462;R3;1;a2i Shop;10000462;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+d48cd064fb1a3a00c3ed4a01399a3f6631505ed9c74d7840bf0ec2149ea5c6f1;10014533;O2;1;Harvey Shop;10014533;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S12;C
+9b9691f97d8060e5120ae4d66db4271245323d2db7ed8729b1b88632f212e698;10018644;R3;1;Kabbalah Shop;10018644;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+d8447bea036adc336e588d09ae32cee99ec765171ffa9ee76748cfd441517290;10015824;R2;1;Heurikon Shop;10015824;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+880465a44d07c77b04e657e049a468f455e7e3b9654bda963b1f004a856cb09e;10000481;R2;1;Abbott Shop;10000481;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+03cfc72e7d88da45af2cda673d6c90fd93a7cbd3bffc0c13c954ba1c746339fb;10024541;R3;1;Southern Supermarket;10024541;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+9545c9705c2b9fd0b7e5662fcba486e9f2a584938c8b7a67c6dad32edc3c079e;10014803;R3;1;HCHS Shop;10014803;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+15439561d4e1cae02eaf7b504e34eeb343b3be98708115326ed88a107780a2c4;10019400;R3;1;Keystar Superstore;10019400;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+ae53c22eaeb2828f389b93c118f9b3327276af5ca27a854cb26cd6d1d5837538;10020390;R3;1;Miles Supermarket;10020390;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+e624d839992eac2d9fabfe3117a0be21ab32f543dfc791634b5469baa087589a;10026560;O2;1;Xentec Shop;10026560;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S12;C
+2758b4106711c939380bfc9cdd7049e211680e847a768e96418dee3421613d7d;10022450;R3;1;R2J2 Shop;10022450;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+c0e9bf9e5e7903ba5d8b642715fd5c96a003103cdbea0b16418f598c31e54356;10027356;R3;1;Zero Market;10027356;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+b1e515a4c14ee4285a58f99396a26c5c6f203d542ef45bb87b0d5b675f2d19e4;10000474;R2;1;A-ARVIN Store;10000474;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+0bc586c3d235608aaa4f62431c61a2336f7d1966a05b2e9f23dcd453af65bac5;10022168;R1;1;QualServe Shop;10022168;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S11;C
+55a57a190ef63ec95891928a2bd6970046c8ca30bd647e576d12b5c7bf81c31b;10026291;R3;1;Warsun Supermarket;10026291;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+7b7c4334a8ec37b6314c904598445feb631f72967b57776896cc2e4429f39e85;10010935;R2;1;Edna Megaplace;10010935;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+f3d641926f8922cf72065f83f07e54c8dcc905a8e69836afbe84756319e71642;10007121;R3;1;C Market;10007121;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+dcc248a2e9c2d2decda942a046a4dd92decaeb8937d1e33da7f15ef69986480e;10025287;R2;1;TransCanada Store;10025287;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+dc1543eac304c919a25f98b6fd7189ea9a6231093d8e837566a8347584f1d0bd;10019664;R1;1;Koppers Supermarket;10019664;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S20;C
+34076682b1a2d6ca9326185f8f2d54bf6459a57389460e4ee73a8aeb9b019692;10025552;R3;1;Unison Medistore;10025552;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S13;C
+25dcda80f8655b9465e85c5bcf4475c795fc6834a33f6946b1a18e947e311609;10022730;R2;1;RC Shop;10022730;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+0b1e85d5c6428c2e04f5745699eebc481fa6bc565ac30623de1f715fa97c12a8;10026532;R2;1;Xediom Shop;10026532;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+f0073413a29e0107a9554f297652a3bbcfea5a47c5c7ab2db63e990e8f1ab6a1;10023221;R3;1;Reveal Supermarket;10023221;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+f781d1b0384088ff378d5d9838ebdd57a077fa7e6dc11dd109757054602d0922;10025269;R3;1;Toledo Market;10025269;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+38202b44ff4c04d43ac2ac61591f21cec4c602fbdfa92633568e03448e02267b;10017036;R1;1;Icon Superstore;10017036;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S11;C
+d0912d1be35d3ed4f3f437b8782071828ba2f6ba0e51cecfe4f5760fd33cb418;10019909;R2;1;LiveWORLD Shop;10019909;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+2585034257c5902f4c41a1f5acfbfa39fc6a4936def7d1ecdf7f384985787926;10010717;R2;1;East Shop;10010717;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+99e219c0d32209cf80462e6ad17e97a17871baa05d0f029031e4083d85e2ab26;10027583;R2;1;zNET Shop;10027583;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+437f1b00ec0d2239455f3f9f6d97ab4c0052dd650da526e5a9a15fff67f2c6d0;10017072;R3;1;Iconation Shop;10017072;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+ad84568b9190510e748c5b589ff0eacf15c28fe02b2c9561fabce4dd3d55b9da;10025252;R3;1;Times Store;10025252;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+8536e14d5c72e1f79026ab52e372aef58386df31cdc79d83f8cb35c10fead316;10014264;R3;1;Harbour Store;10014264;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S1;C
+9e02fc1dede06ffb84dd27572b01ef3cbc987e5c18135809f836f333682cb19e;10022750;R3;1;Ready-to-Run Shop;10022750;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+0bb92fc710e5d9c59f4e04f0054ea6d7cf673911096f57de079a19b9867fb3f8;10019665;R3;1;Labatt Supermarket;10019665;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+1a509a5db6ea79cbe3a62f578ab5c3f527381b3b7eb5f57a4c81ba5879df3b02;10024006;R3;1;ScotGold Market;10024006;G2;2;Domestic;M1;816-455-8733;4;Central;S16;C
+4ea4134a00af093b70d10ab7b6629f757eead7fd70b9bd5a9ef020c3e522175d;10025291;R3;1;Trend Market;10025291;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+bdabc86563cb55f90353c12c393a3908c435ec69e3b99dd8ea4b6174001410b8;10024550;R2;1;Southwire Store;10024550;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S9;C
+6a693c7726c735cb425cbaad541037d04fa76cce634b416e81e872e3b9c7ccee;10016564;R3;1;Home Market;10016564;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+60fee0fe7b1e5edac1a9720c2dbb9e81a2ec795ef78cdb70ef361a43ee67fd33;10017585;R3;1;Ilog Shop;10017585;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S16;C
+1d7f86462615025c4d4e2d4825e8d08f8ee23bcf6f18a3324cc8b5767428e9b3;10020909;O1;1;Onestar Shop;10020909;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+510fe5792c9b51060e6b395981be2777c18b59ee61090692545483cd65b102b3;10024999;R2;1;TAGnology Shop;10024999;G2;2;Domestic;Não Informado;816-455-8733;4;Central;S5;C
+a78c6bf646a49afffa2b6cd8f9494e9026a406928d04e22d1b150b86769083e2;10023235;R2;1;ReviewBooth Shop;10023235;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S3;C
+6ea941262a6c7a2d34b4bd5ccef9eaa8bc0476b176c2e6384c85a20e5757993d;10003795;R3;1;Bechtel Supermarket;10003795;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+5b6e0a9da53d77504cb280d734e4d32e4c73d93fc244fc1b4b6411dccd6a5da5;10021459;O2;1;Papyrus Shop;10021459;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S12;C
+85238220bc5379d5a90cda80104e5db2c31575e22cef2ebf8d4326935110a2e1;10019617;R3;1;Kool-Seal Shop;10019617;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+7cbf2286976a92d788e3b69e2033f409ffbef6ff3a8b08cfd991b170209397b2;10023538;R1;1;Salamander Supermarket;10023538;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S11;C
+6d7d53fbef93bc34b0995aaebf32a00f18b0aea6890848579400ed2174668294;10025250;R2;1;TICOR Shop;10025250;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+42775afc927865d6aa6a8c538a99280a5a19c85577f05e8596a61670442e5487;10022470;R3;1;Racal Store;10022470;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+b43c2e7ff90a334a6ba691b7f1a77a5d0375c4f9fe67712bddf89b0860512090;10023524;R3;1;Salias Gigaplace;10023524;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+3f55e891ff9735bd9260a4adbba516abeeace32da54af5d26d70e03b6ab4fa11;10025560;R3;1;Unisys Supermarket;10025560;G2;2;Domestic;M1;816-455-8733;2;Southern;S16;C
+0c02a87ee43ef4e24fad72dce1fe097616c5ed0f12a1e9b3cd11a1fa7bd6420f;10025302;R3;1;U.S. Market;10025302;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+9826b067199cfcc94f0ad5302a9dd824990a7a435915b32ceba3867d2d060dfb;10016047;R3;1;High Store;10016047;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+e912296486bb8a230a0b3d8ed0103121116820a21e47508afcf9f1f59a641eb1;10020639;R2;1;NECX Market;10020639;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+7b8df03509d83e9b3efbdbf7381ff3eb7492b87bb46f904809da95fb3ec36198;10007564;R2;1;CAM Market;10007564;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+a84cabd0e034f2aa150e13b1e5c67fc7202f36ce41bd2cf8408446f816d9f54b;10025758;R3;1;UTStarGate Shop;10025758;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+d14a7e7f16664dd0dfc831e62f6bd79144a00e12270ec03c1edf6c3f87183aa5;10025515;R1;1;UniPress Shop;10025515;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S20;C
+cef7a16772999e61a9e55793b65acb32642d16653dbb5b59f7e87765c30ccbf1;10009697;R2;1;Debian Shop;10009697;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;I
+74b879a1efe18a62747a4417ddbe7b88d160e5f72630c9ae28bbbb9077bc6682;10018623;R1;1;K&M Supermarket;10018623;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+af56fc8cbe404de533b7dec0af187b694dd83c99f8e0df2de61ca9c9c6f80e7f;10022249;R3;1;Quantum Supermarket;10022249;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+8fa83f17b4f475dd470efff9a70035f7192f2f31430ee18334e68b66ca6194db;10026348;O1;1;WDND Shop;10026348;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+a2378dfef30c596e2dfb52d98e3ee2b8b4cb5e1ac51d0c780bfa9e261c2530fe;10000601;R2;1;Radio Market;10000601;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+160f4457d16476949e42d95890b111837ed9813f8ca0e54b36294ebae743d49f;10014739;R2;1;Haz-Mat Store;10014739;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+2fb04c6a72c4b723b5f6f5ab0b6a66142117b49c75708925d23fd89a82217554;10025814;R3;1;Valpatken Shop;10025814;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+22f49a97ac7f9055bdadab44223d541fb4c0dc3d63d1cf2093f3c4411915e996;10009623;R3;1;Chas Market;10009623;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;I
+4ddd816544b9cb458659f18d3eddb178db7b9a38d33060176dd5dd49199f2038;10024499;R3;1;Soloman Market;10024499;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+697130809353ba6ee575ced6eefb1c56fca772162eb7e8828e8e777ddb748068;10024725;R3;1;Stone Market;10024725;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+f1e1a653abd12ccef53db03a68879866e52d41c4697fdb8cb12bd833a41be690;10022732;R2;1;RC Market;10022732;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+fa511b911ec9943349499b1bab7b95fb551439c77ff02e57f2c93c4ada75adbf;10010912;R3;1;edit.nl Shop;10010912;G2;2;Domestic;M1;816-455-8733;2;Southern;S16;C
+038bc3a03ae346068c6e409b60de2307289a5a45aba2bce8f3cd4bfd5aa0636e;10023471;R3;1;Road Warriors;10023471;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+813219faa2de69d664083b20ca2c4d4eac6a93bdb89fb8f4c58561efd31dd012;10026336;R3;1;WBM Store;10026336;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+e9e34f6f1d3087b852f9daa8df1c29d594eca5ee08fa8c14216ecbbb87594487;10007122;R3;1;C Store;10007122;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+9aedaf35b06de7d50df0bcef01676f8abfd2499c1c724a7623e25b79c2a69ca7;10013252;O2;1;Gate Shop;10013252;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S12;C
+ac465622c6758e57a9a249cffe623e8f58473d8c7091374bd1962269b349a69d;10026839;R3;1;Xtreme Shop;10026839;G2;2;Domestic;M1;816-455-8733;2;Southern;S16;C
+36ed5392506e6e82a257a63664ee9f371ebbb554e03f0d039e53c32de8b6ea91;10007123;R3;1;C Supermarket;10007123;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+bbfdbf98ad9e67041e53bbddae1aea1fb748b727d94424602821e72ed1ac6ba2;10020413;R3;1;Molson Store;10020413;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+49509559822c8120330c4dc3ebde88ac73a65300e1d1fb44401e78e5c4d5650c;10023759;R3;1;SASCO Store;10023759;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+073ef2ef6dbcfe137dd33cd7cb272f145825889e71c0c0e6645da723a08b4d8d;10025040;R3;1;Tangent Shop;10025040;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+da86dc390dc7a2473b2dcbe387c52cd98a345d424ee7ffa786feb3257398d550;10009654;R3;1;DCS Store;10009654;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+8f4960da80f08f467ed808b5a5d536eaa6d249b77ca78a69e037a58a85bc74f8;10025558;R3;1;Unisys Shop;10025558;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+cb2e9b026ee43aff756ea4963e165149d232b30867bd4647fb895ed1f18fe050;10020184;O2;1;Matradi Megastore;10020184;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S12;C
+61e742ff33b047d5711e7438887e10521679acace2e90f25cd67ae9c13141b66;10013188;R3;1;Gartner Supermarket;10013188;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+3874672afc248b1a37a96c63b3c18e31276da62aa9e1e6635c7878a1c18f0238;10002765;R3;1;Active Store;10002765;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+f1d178048df2004dab07853f5036c8d653b5707a7587cc2645c590e606382565;10023241;R1;1;Revnet Market;10023241;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S11;C
+6368401176a6934a3fccd512898495832a0d4c7b80c0ce1ea0308e18702d0b3c;10022764;R3;1;RealiDyne Shop;10022764;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+534330a64fb6f01fb4f50446c28c4c202783d3903df9e01ee86121e60512a5b6;10018580;R2;1;K Supermarket;10018580;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+87636dee28492ba6d153c6e74ab9c49ffdfa86778ae3bc3d26ab552168a1d11b;10025243;R3;1;Teca-Print Shop;10025243;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+0796271afc9cafaf84a7fc7a0faff5f4852397ace33689d8410001c3e73a37df;10002489;R3;1;ACT Supermarket;10002489;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+0676163831653a7b169e155be2b1db6d6655d9839e32edad6839678ffea10758;10011734;R3;1;Felidae Enterprises;10011734;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+8d35e82b5fdfe5154cb2f8432cbadbe4715890fb300bf225a32594742510964d;10027348;R2;1;Zephyr Shop;10027348;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;I
+a6e0dc9f68a37807cf1efc0afffca2a6859015b1b5ba4390cd9f4477b524a12f;10004302;R3;1;Berkeley Supermarket;10004302;G2;2;Domestic;M1;816-455-8733;2;Southern;S1;C
+7e61e8544d37ae17f26cb2d834927dcc58fe3a076992b7f77193f16e845b0440;10010970;R3;1;EDP Shop;10010970;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+ba2cec5e7310c84d9c9d91dccd1ef68d2e03038eebefed8d273051a576d0df6e;10025285;R3;1;Transalta Store;10025285;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+c9935094e422c1d8c265d97f482f2c5e0bf2b65ca1e9ee1b957f06becc8d5035;10020914;R3;1;Onetouch Supermarket;10020914;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+8dc24dc2bcb21a444ee3e27cc87a5401607184a89c01a0400b4de15e57d080f6;10020684;R3;1;Oklahoma Supermarket;10020684;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+b88a8675240bcc73328182391815cce766a71a2b64bf507a6c8a069f419e273e;10011521;R2;1;Farr Market;10011521;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+b25f382df14556c607109bfb6e9216ed982aec3ba3d9f45d26255a52db75c33b;10017576;R3;1;Illuminati Shop;10017576;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+7abea99758aa188fdc16fc7eb4d849abe16138b7fc233ff2ae62c14460084c0c;10022725;R3;1;Razorfish Shop;10022725;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+33244bcd1781aab19220e55ad8a45e0885e0168b8b387c6b1fa3fbd0f48be128;10017314;R3;1;Idyllwild Shop;10017314;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S14;C
+be0fec1bb74e9bd6cd2b4217ac53d4347ad8fd3734de6404c3b36503f8f096fd;10019897;R3;1;Livermore Store;10019897;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+6e84cf1801edf1f9e31acf896d2e1e433371504c4ba4d528db49d5b47dcbee73;10002244;O2;1;ACS Market;10002244;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S12;C
+f74f299b05be47723579d9b94eef6ee5bb2ad7af0b8e5cd1adc68202be6e96d0;10023516;R3;1;SAIC Supermarket;10023516;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+afdbff2bae041380b6d2c952f06af53c6ac6570b06f07b3749cae163fa5a0111;10023793;R2;1;Savetz Store;10023793;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S2;C
+3a6ef1f2154b2b8dff79da4e3bb5a45d73e1c64d91acc8164366766c8d7a1663;10023447;R3;1;RKS Shop;10023447;G2;2;Domestic;M1;816-455-8733;2;Southern;S16;C
+bc8f0f900885684e6e8c68138a5e01176cafdf4e3cc77a0de20cde4af4cc1347;10000460;R3;1;Meals Market;10000460;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+8ae98c8e68c924a91182a015aec39ff422839f2eb4a01c8ca2e8fc16c2c4f922;10026299;R3;1;Watcom Maxistore;10026299;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+0f586bffd9999d083620ef8c3acff63635407bca5a3c5ff19ab51af4b6b6b3d7;10021936;R3;1;Pink Supermarket;10021936;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+52590f66bb0a1618249286fee2a59864d35c78d9ca196752b0ce76a459efcb21;10000475;R3;1;AA-Wizard Shop;10000475;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+90635bcd1dc18093e2bbb9f19b235035e6e12a3a907b05ef34703b3cf97c07f5;10025495;R3;1;UniForum Shop;10025495;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+b19a36a023b11fcfd34cfc125f38bde66dbea7f940e3f90312ad51d9d49f36a8;10023783;R3;1;Saturnus Supermarket;10023783;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+8e13f50846f6bdd770928bc2008555252d22d2ed6e73067383a892a812ea7a87;10008596;R4;1;Capitolnet Supermarket;10008596;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S18;C
+3f9cf1e961aee09c7dcc10866a3a3ca8a38e7b7e646b8508d47f93d07f757d36;10016549;R3;1;Home Store;10016549;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+1ec7dfe6cccaab4db43841a9b7885937d4d9c52fd6587e9943cfe788ab4ff1f7;10023509;R3;1;Safetynet Shop;10023509;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+245c1773fd12369b436febae9e0d72d35a20abd90c6389c4642cfd1b35a2916b;10027575;R3;1;Zitel Shop;10027575;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+9aead49545a79f0a6bf2cc25709dfe1ec96fc66df9724f73d2d5a13afa4ed93d;10006805;R3;1;Bitstream Shop;10006805;G1;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+a178524345c66e4ba10ba3e67cdb64964039c1d416cf889bb70261c6790bb79d;10021911;R3;1;PING Shop;10021911;G1;2;Domestic;M1;816-455-8733;2;Southern;S19;C
+c9d2702b94688a7a52f83474da2b177e94501e366dcd69326be055010dad86e7;10021911;R3;1;Ping Shop;10021911;G2;2;Domestic;M1;816-455-8733;2;Southern;S16;C
+03dceccd7ea3f7461dfbdf4d3e098894e5b586ec2167641f81579d3d6270850c;10009660;R1;1;DDR Shop;10009660;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S22;C
+d3a2a4b8ae207e889ebf0c6e02a890b67c1eebb4d8e2ce4d8ef31f0a695ec1f9;10009907;R2;1;Del Supermarket;10009907;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S9;C
+c5a1394cb0ea4c05073ceeda1394eeea8161e9c9f557f7b3c97cd8d7cc1f1eaa;10016548;R3;1;Home Superstore;10016548;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+b6597d91a948ef1bfb10348f04206720933f86a477a9cf9a0cb1a6f76ac0721c;10024009;R2;1;Scottish Supermarket;10024009;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S2;C
+f602b8cd578efd27b90dc280c09d1588acdb51d2fd6ee487537629f63a7e5890;10016588;R3;1;Bounds Megaplace;10016588;G2;2;Domestic;M1;816-455-8733;2;Southern;S16;C
+577dea9c899959e867a634703059e7f753062c1490b89477820bfafa6d123430;10019150;O2;1;Kentucky Supermarket;10019150;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S12;C
+8ca19e1c33ef35ab7a66473a5251f421806101f99efd806ff8d169444114b217;10010897;R2;1;Edify Shop;10010897;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S2;C
+66fcffa2571eb00751485898690db82665999407f7fb5a4b195ffabe681e8a8f;10021145;R2;1;Pacel Shop;10021145;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+57bdc6d8430f7a4a6a41972f8ff8ab55e4bfc6cca7f3c6b5c1341231d7a57056;10026062;R2;1;Venable Shop;10026062;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+937826b757d2de4c3835b83f27fdd54428e72a897c8674dbe09aaa2e9265f379;10026581;R3;1;Xetron Shop;10026581;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+e8079e08a41a05fa3b68227c6316f833c5244d49c1ea9915083c4ad94b587975;10012422;R3;1;Finishing Shop;10012422;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+f460f44121d599b93e3f48d0c2d402cf7595448b0d7314af0bb488ce873b34af;10006037;R3;1;Bigelow Store;10006037;G1;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+135f5d0ebb6b77153ddef2909842944ceda6e9a740d845b4134bf150f5f2c6a2;10021175;R3;1;Pacific Supermarket;10021175;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+9c17be9eb2f5595dc7fe6f6ad1ccdb87805d5562546bab3c187363e05ce53ed6;10023244;R2;1;Revolutionary Supermarket;10023244;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S5;C
+5c75e7606c59e16f4fb7bf62faf0ae05e3fcd95c253a8c732d466ad8e7660a9a;10007355;R3;1;CAF Market;10007355;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+4742f1596e5b2d1f46e1fa54f4d763c0053b9aed4cf0fcf4b4c649633c72e68a;10006862;R3;1;BL Supermarket;10006862;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+b798069bffad6f75faf70e98ceb88b5bfa70631ab0e5e7b4b781e347af557c77;10019879;R3;1;Litton Shop;10019879;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
+9024192007c19f46f4bbf777a704d9459526414638751b5c7e15d80958cb0c6b;10025249;R1;1;Texasgulf Market;10025249;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S11;C
+c62e44e5f553e26fe3f13d1183fe890d51aedbb913cc5ccc0e7091878a5672ad;10009679;R3;1;Debenhams Supermarket;10009679;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+86d4b87e39e1c8e83b8f7827feed8002bbada07f70904edeb8d94b9ff80a410d;10014804;R3;1;HCS Shop;10014804;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+08690988001b5d598eb6d559e46ddbc6b4e1b6bbb931f7eabe647f0e5cfa1a9e;10000478;R3;1;Abacus Market;10000478;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S16;C
+9eb2f6adc27905f2b617437cec3fd6632cfae2c5e9dfa2978085d15f3882e480;10016542;O2;1;Holy Supermarket;10016542;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S12;C
+f4dd28d8c89bec171910d43d2d805c72e2d1564be0159941deed4b5b2661aeac;10027560;R2;1;Zilog Shop;10027560;G2;2;Domestic;Não Informado;816-455-8733;2;Southern;S1;C
